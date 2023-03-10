@@ -1,0 +1,283 @@
+model,conversation_id,question_ref,answer_ref,question,answer,score,manual_label,offset_answer_start,offset_answer_end,context,offset_context_start,offset_context_end
+salti/bert-base-multilingual-cased-finetuned-squad,10964,0,0,What date is set for another meeting?,no_answer,4.992604733,-2,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,10964,0,1,What date is set for another meeting?,today,-5.348203182,,313,318,"aid ""Well thank you for agreeing to be recorded today and I sent over the written consent. But I hav",265,365
+salti/bert-base-multilingual-cased-finetuned-squad,10964,0,2,What date is set for another meeting?,earlier,-6.217937469,,10107,10114,getting my head around instigating a LABA LAMA earlier. And I do like the respimat device but I'd be,10060,10160
+salti/bert-base-multilingual-cased-finetuned-squad,10964,0,3,What date is set for another meeting?,agreeing to be recorded today,-6.224905491,,289,318,"""
+operator said ""Well thank you for agreeing to be recorded today and I sent over the written consen",253,353
+salti/bert-base-multilingual-cased-finetuned-squad,10964,0,4,What date is set for another meeting?,LABA LAMA earlier,-6.931231022,,10097,10114,t me getting my head around instigating a LABA LAMA earlier. And I do like the respimat device but I,10055,10155
+salti/bert-base-multilingual-cased-finetuned-squad,10964,1,0,What date is proposed for the next meeting?,no_answer,4.393781185,-2,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,10964,1,1,What date is proposed for the next meeting?,this meeting will be recorded for training and monitoring purposes,-1.825630426,,718,784,gree with it. So this meeting will be recorded for training and monitoring purposes. You understand ,701,801
+salti/bert-base-multilingual-cased-finetuned-squad,10964,1,2,What date is proposed for the next meeting?,recorded for training and monitoring purposes,-2.701275826,,739,784,it. So this meeting will be recorded for training and monitoring purposes. You understand and accept,711,811
+salti/bert-base-multilingual-cased-finetuned-squad,10964,1,3,What date is proposed for the next meeting?,going straight from Asaba to LAMA LABA,-2.898247719,,7357,7395,e in these now so recommending going straight from Asaba to LAMA LABA. And I know currently you're t,7326,7426
+salti/bert-base-multilingual-cased-finetuned-squad,10964,1,4,What date is proposed for the next meeting?,calendar,-3.021210194,,17301,17309,"ill be fine. ""
+operator said ""I'll send you a calendar invite for that then. And we do have an email",17255,17355
+salti/bert-base-multilingual-cased-finetuned-squad,12046,0,0,What date is set for another meeting?,Thursday,7.036968231,2,26621,26629,"and time or is it best for me to try you on a Thursday?""
+customer said ""Thursday's the best day Beca",26575,26675
+salti/bert-base-multilingual-cased-finetuned-squad,12046,0,1,What date is set for another meeting?,no_answer,4.440131187,,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,12046,0,2,What date is set for another meeting?,"Thursday?""
+customer said ""Thursday",3.823600054,,26621,26655,"s it best for me to try you on a Thursday?""
+customer said ""Thursday's the best day Because I'm half ",26588,26688
+salti/bert-base-multilingual-cased-finetuned-squad,12046,0,3,What date is set for another meeting?,"Thursday?""
+customer said ""Thursday's the best day Because I'm half day so you know I can talk for Wales then",3.780556917,,26621,26729,"Thursday?""
+customer said ""Thursday's the best day Because I'm half day so you know I can talk for Wales then",26621,26729
+salti/bert-base-multilingual-cased-finetuned-squad,12046,0,4,What date is set for another meeting?,a Thursday,2.718871593,,26619,26629," and time or is it best for me to try you on a Thursday?""
+customer said ""Thursday's the best day Bec",26574,26674
+salti/bert-base-multilingual-cased-finetuned-squad,12046,1,0,What date is proposed for the next meeting?,Thursday,8.130292892,2,26621,26629,"and time or is it best for me to try you on a Thursday?""
+customer said ""Thursday's the best day Beca",26575,26675
+salti/bert-base-multilingual-cased-finetuned-squad,12046,1,1,What date is proposed for the next meeting?,no_answer,4.991643429,,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,12046,1,2,What date is proposed for the next meeting?,"Thursday?""
+customer said ""Thursday's the best day Because I'm half day so you know I can talk for Wales then",4.811161041,,26621,26729,"Thursday?""
+customer said ""Thursday's the best day Because I'm half day so you know I can talk for Wales then",26621,26729
+salti/bert-base-multilingual-cased-finetuned-squad,12046,1,3,What date is proposed for the next meeting?,"Thursday?""
+customer said ""Thursday",4.399007797,,26621,26655,"s it best for me to try you on a Thursday?""
+customer said ""Thursday's the best day Because I'm half ",26588,26688
+salti/bert-base-multilingual-cased-finetuned-squad,12046,1,4,What date is proposed for the next meeting?,a Thursday,3.77158618,,26619,26629," and time or is it best for me to try you on a Thursday?""
+customer said ""Thursday's the best day Bec",26574,26674
+salti/bert-base-multilingual-cased-finetuned-squad,12838,0,0,What date is set for another meeting?,no_answer,0.670145273,2,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,12838,0,1,What date is set for another meeting?,month,-3.143556356,,2430,2435,people complain that when one month and another month and they're all the same as you know because t,2382,2482
+salti/bert-base-multilingual-cased-finetuned-squad,12838,0,2,What date is set for another meeting?,one month and another month,-3.156076431,,2408,2435,ve is that people complain that when one month and another month and they're all the same as you kno,2371,2471
+salti/bert-base-multilingual-cased-finetuned-squad,12838,0,3,What date is set for another meeting?,one month,-3.914023399,,2408,2417,lem we have is that people complain that when one month and another month and they're all the same a,2362,2462
+salti/bert-base-multilingual-cased-finetuned-squad,12838,0,4,What date is set for another meeting?,month and another month,-4.528812885,,2412,2435, is that people complain that when one month and another month and they're all the same as you know ,2373,2473
+salti/bert-base-multilingual-cased-finetuned-squad,12838,1,0,What date is proposed for the next meeting?,no_answer,-0.481198549,2,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,12838,1,1,What date is proposed for the next meeting?,if possible it would be an idea to maybe get you back into the practice,-4.624049664,,7207,7278,ut kind of way if possible it would be an idea to maybe get you back into the practice and the pharm,7192,7292
+salti/bert-base-multilingual-cased-finetuned-squad,12838,1,2,What date is proposed for the next meeting?,if possible it would be an idea to maybe get you back into the practice and the pharmacist because our generic approach to generics looks like it's not a good idea,-5.073897839,,7207,7370, if possible it would be an idea to maybe get you back into the practice and the pharmacist because our generic approach to generics looks like it's not a good idea,7206,7370
+salti/bert-base-multilingual-cased-finetuned-squad,12838,1,3,What date is proposed for the next meeting?,if possible it would be an idea to maybe get you back into the practice and the pharmacist,-5.210802078,,7207,7297, way if possible it would be an idea to maybe get you back into the practice and the pharmacist beca,7202,7302
+salti/bert-base-multilingual-cased-finetuned-squad,12838,1,4,What date is proposed for the next meeting?,maybe get you back into the practice,-5.472663879,,7242,7278,possible it would be an idea to maybe get you back into the practice and the pharmacist because our ,7210,7310
+salti/bert-base-multilingual-cased-finetuned-squad,13136,0,0,What date is set for another meeting?,middle of August,14.17204285,2,24565,24581,of like this week for a date kind of like middle of August when obviously it's raining and you know ,24523,24623
+salti/bert-base-multilingual-cased-finetuned-squad,13136,0,1,What date is set for another meeting?,August,13.22851372,,24575,24581,ke this week for a date kind of like middle of August when obviously it's raining and you know summe,24528,24628
+salti/bert-base-multilingual-cased-finetuned-squad,13136,0,2,What date is set for another meeting?,Thursday,9.139692307,,8252,8260,the Meet the pre meeting sort of thing on the Thursday. So we'll definitely do an update with that. ,8206,8306
+salti/bert-base-multilingual-cased-finetuned-squad,13136,0,3,What date is set for another meeting?,Monday,8.691411018,,39650,39656,d but following on that so I'm meeting them on Monday so I'll speak you'll have an email from me any,39603,39703
+salti/bert-base-multilingual-cased-finetuned-squad,13136,0,4,What date is set for another meeting?,Monday next week,8.518486023,,11769,11785,and CC you in. So A I'm I'll meet them on Monday next week for a remote meeting. OK so I'll do that ,11727,11827
+salti/bert-base-multilingual-cased-finetuned-squad,13136,1,0,What date is proposed for the next meeting?,middle of August,13.86775398,2,24565,24581,of like this week for a date kind of like middle of August when obviously it's raining and you know ,24523,24623
+salti/bert-base-multilingual-cased-finetuned-squad,13136,1,1,What date is proposed for the next meeting?,Thursday,13.84585762,,8252,8260,the Meet the pre meeting sort of thing on the Thursday. So we'll definitely do an update with that. ,8206,8306
+salti/bert-base-multilingual-cased-finetuned-squad,13136,1,2,What date is proposed for the next meeting?,August,12.82479954,,24575,24581,ke this week for a date kind of like middle of August when obviously it's raining and you know summe,24528,24628
+salti/bert-base-multilingual-cased-finetuned-squad,13136,1,3,What date is proposed for the next meeting?,Monday,11.59737682,,11769,11775, her and CC you in. So A I'm I'll meet them on Monday next week for a remote meeting. OK so I'll do ,11722,11822
+salti/bert-base-multilingual-cased-finetuned-squad,13136,1,4,What date is proposed for the next meeting?,Monday next week,10.4424305,,11769,11785,and CC you in. So A I'm I'll meet them on Monday next week for a remote meeting. OK so I'll do that ,11727,11827
+salti/bert-base-multilingual-cased-finetuned-squad,13828,0,0,What date is set for another meeting?,no_answer,1.926474571,2,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,13828,0,1,What date is set for another meeting?,we'll do another virtual consultation,-4.714950562,,8898,8935,ents that need to come back and we'll do another virtual consultation. And I can talk about that opt,8866,8966
+salti/bert-base-multilingual-cased-finetuned-squad,13828,0,2,What date is set for another meeting?,we'll do another virtual consultation.,-5.505582809,,8898,8936,nts that need to come back and we'll do another virtual consultation. And I can talk about that opti,8867,8967
+salti/bert-base-multilingual-cased-finetuned-squad,13828,0,3,What date is set for another meeting?,"customer said ""No there's no reason for me not not to call them back in, hindsight was a wonderful thing. I wish I spoke to you because I didn't really really useful as the patients that need to come back and we'll do another virtual consultation",-5.865045071,,8689,8935,"customer said ""No there's no reason for me not not to call them back in, hindsight was a wonderful thing. I wish I spoke to you because I didn't really really useful as the patients that need to come back and we'll do another virtual consultation",8689,8935
+salti/bert-base-multilingual-cased-finetuned-squad,13828,0,4,What date is set for another meeting?,virtual consultation,-6.022361279,,8915,8935, need to come back and we'll do another virtual consultation. And I can talk about that option for t,8875,8975
+salti/bert-base-multilingual-cased-finetuned-squad,13828,1,0,What date is proposed for the next meeting?,no_answer,5.045101896,2,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,13828,1,1,What date is proposed for the next meeting?,10 millimeters,-3.224266052,,7852,7866,"tablet for these.""
+operator said ""So there 10 millimeters so there tiny what you actually saw on the",7809,7909
+salti/bert-base-multilingual-cased-finetuned-squad,13828,1,2,What date is proposed for the next meeting?,today,-6.272130966,,7772,7777,ay would be better to take this and say the one today. Yes. And what the size of the tablet for thes,7724,7824
+salti/bert-base-multilingual-cased-finetuned-squad,13828,1,3,What date is proposed for the next meeting?,10,-6.941148758,,7852,7854,"f the tablet for these.""
+operator said ""So there 10 millimeters so there tiny what you actually saw ",7803,7903
+salti/bert-base-multilingual-cased-finetuned-squad,13828,1,4,What date is proposed for the next meeting?,near future,-6.993868828,,10300,10311, do a virtual lunch with the practice in the near future to discuss this in more detail with everyon,10255,10355
+salti/bert-base-multilingual-cased-finetuned-squad,13960,0,0,What date is set for another meeting?,Wednesday the 4th of August,9.456817627,2,20391,20418,a contract Cath I will put it on for Wednesday the 4th of August and that's good with you in the mor,20354,20454
+salti/bert-base-multilingual-cased-finetuned-squad,13960,0,1,What date is set for another meeting?,12th of August,8.834846497,,11450,11464,"ased best-run. I will see her again on the 12th of August to see if we can get that sorted first. ""
+",11407,11507
+salti/bert-base-multilingual-cased-finetuned-squad,13960,0,2,What date is set for another meeting?,the 12th of August,7.781904221,,11446,11464,reased best-run. I will see her again on the 12th of August to see if we can get that sorted first. ,11405,11505
+salti/bert-base-multilingual-cased-finetuned-squad,13960,0,3,What date is set for another meeting?,Thursday morning,6.757127762,,1287,1303,"actually. I spoke to Zoe and Stephanie on Thursday morning. ""
+customer said ""Ok. ""
+operator said ""An",1245,1345
+salti/bert-base-multilingual-cased-finetuned-squad,13960,0,4,What date is set for another meeting?,4th of August,6.314052105,,20405,20418,act Cath I will put it on for Wednesday the 4th of August and that's good with you in the morning. A,20361,20461
+salti/bert-base-multilingual-cased-finetuned-squad,13960,1,0,What date is proposed for the next meeting?,Wednesday the 4th of August,12.53826523,2,20391,20418,a contract Cath I will put it on for Wednesday the 4th of August and that's good with you in the mor,20354,20454
+salti/bert-base-multilingual-cased-finetuned-squad,13960,1,1,What date is proposed for the next meeting?,12th of August,9.548250198,,11450,11464,"ased best-run. I will see her again on the 12th of August to see if we can get that sorted first. ""
+",11407,11507
+salti/bert-base-multilingual-cased-finetuned-squad,13960,1,2,What date is proposed for the next meeting?,4th of August,8.69685936,,20405,20418,act Cath I will put it on for Wednesday the 4th of August and that's good with you in the morning. A,20361,20461
+salti/bert-base-multilingual-cased-finetuned-squad,13960,1,3,What date is proposed for the next meeting?,the 12th of August,8.285037041,,11446,11464,reased best-run. I will see her again on the 12th of August to see if we can get that sorted first. ,11405,11505
+salti/bert-base-multilingual-cased-finetuned-squad,13960,1,4,What date is proposed for the next meeting?,Wednesday the 4th of August and,7.922290802,,20391,20422,contract Cath I will put it on for Wednesday the 4th of August and that's good with you in the morni,20356,20456
+salti/bert-base-multilingual-cased-finetuned-squad,16699,0,0,What date is set for another meeting?,Sunday,2.426393509,-2,25722,25728,"the weekend goes smoothly for you tomorrow and Sunday.""
+customer said ""My weekend starts after 5:00 ",25675,25775
+salti/bert-base-multilingual-cased-finetuned-squad,16699,0,1,What date is set for another meeting?,Friday,2.106321335,,118,124,e you doing Parth? Good to see you. Yeah happy Friday. Yeah well my work don't stop so you know I go,71,171
+salti/bert-base-multilingual-cased-finetuned-squad,16699,0,2,What date is set for another meeting?,Friday. Yeah well my work don't stop so you know I got to work this weekend too but you know it's always good to have have a little weekend. I probably won't relax until Sunday,0.596559763,,118,294,Friday. Yeah well my work don't stop so you know I got to work this weekend too but you know it's always good to have have a little weekend. I probably won't relax until Sunday,118,294
+salti/bert-base-multilingual-cased-finetuned-squad,16699,0,3,What date is set for another meeting?,no_answer,0.559206545,1,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,16699,0,4,What date is set for another meeting?,"Sunday.""
+customer said ""My weekend starts after 5:00 on Saturday",-0.261392236,,25722,25786," you tomorrow and Sunday.""
+customer said ""My weekend starts after 5:00 on Saturday. So then I have S",25704,25804
+salti/bert-base-multilingual-cased-finetuned-squad,16699,1,0,What date is proposed for the next meeting?,no_answer,4.027640164,2,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,16699,1,1,What date is proposed for the next meeting?,Friday,-0.224224731,,118,124,e you doing Parth? Good to see you. Yeah happy Friday. Yeah well my work don't stop so you know I go,71,171
+salti/bert-base-multilingual-cased-finetuned-squad,16699,1,2,What date is proposed for the next meeting?,the first question is going to be the next question is going to be on GI,-1.206983566,,16315,16387,questions. So the first question is going to be the next question is going to be on GI. And then my ,16301,16401
+salti/bert-base-multilingual-cased-finetuned-squad,16699,1,3,What date is proposed for the next meeting?,Friday. Yeah well my work don't stop so you know I got to work this weekend too but you know it's always good to have have a little weekend. I probably won't relax until Sunday,-1.37687099,,118,294,Friday. Yeah well my work don't stop so you know I got to work this weekend too but you know it's always good to have have a little weekend. I probably won't relax until Sunday,118,294
+salti/bert-base-multilingual-cased-finetuned-squad,16699,1,4,What date is proposed for the next meeting?,GI,-1.560743332,,16385,16387, going to be the next question is going to be on GI. And then my last question is the with with the ,16336,16436
+salti/bert-base-multilingual-cased-finetuned-squad,16997,0,0,What date is set for another meeting?,Patient Empowerment Alliance,-5.208912373,-2,15150,15178, similar to what you call it of the Patient Empowerment Alliance. And it really focuses around those,15114,15214
+salti/bert-base-multilingual-cased-finetuned-squad,16997,0,1,What date is set for another meeting?,weekend,-5.405314445,,695,702,No I just got some friends coming down for the weekend. Nothing too crazy. Have the kids play and sp,648,748
+salti/bert-base-multilingual-cased-finetuned-squad,16997,0,2,What date is set for another meeting?,the Patient Empowerment Alliance,-5.821527481,,15146,15178,ry similar to what you call it of the Patient Empowerment Alliance. And it really focuses around tho,15112,15212
+salti/bert-base-multilingual-cased-finetuned-squad,16997,0,3,What date is set for another meeting?,two,-6.642091751,,4811,4814,"d on or will be focusing on for the next year or two.""
+operator said ""OK OK no that's really helpful",4762,4862
+salti/bert-base-multilingual-cased-finetuned-squad,16997,0,4,What date is set for another meeting?,next year or two,-6.731226444,,4798,4814,"focused on or will be focusing on for the next year or two.""
+operator said ""OK OK no that's really h",4756,4856
+salti/bert-base-multilingual-cased-finetuned-squad,16997,1,0,What date is proposed for the next meeting?,year or two,0.327500641,-2,4803,4814,"cused on or will be focusing on for the next year or two.""
+operator said ""OK OK no that's really hel",4758,4858
+salti/bert-base-multilingual-cased-finetuned-squad,16997,1,1,What date is proposed for the next meeting?,two,0.292234421,,4811,4814,"d on or will be focusing on for the next year or two.""
+operator said ""OK OK no that's really helpful",4762,4862
+salti/bert-base-multilingual-cased-finetuned-squad,16997,1,2,What date is proposed for the next meeting?,next year or two,0.221690416,,4798,4814,"focused on or will be focusing on for the next year or two.""
+operator said ""OK OK no that's really h",4756,4856
+salti/bert-base-multilingual-cased-finetuned-squad,16997,1,3,What date is proposed for the next meeting?,no_answer,0.032230198,1,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,16997,1,4,What date is proposed for the next meeting?,the next year or two,-0.32374227,,4794,4814,"n focused on or will be focusing on for the next year or two.""
+operator said ""OK OK no that's really",4754,4854
+salti/bert-base-multilingual-cased-finetuned-squad,17030,0,0,What date is set for another meeting?,no_answer,5.072529316,2,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,17030,0,1,What date is set for another meeting?,Monday,1.282068372,,227,233,"y that it's turning out to be less crazy. It's Monday right?""
+operator said ""Tell me about the dog i",180,280
+salti/bert-base-multilingual-cased-finetuned-squad,17030,0,2,What date is set for another meeting?,It's Monday,-0.461620271,,222,233,"appy that it's turning out to be less crazy. It's Monday right?""
+operator said ""Tell me about the do",177,277
+salti/bert-base-multilingual-cased-finetuned-squad,17030,0,3,What date is set for another meeting?,the month prior,-1.042042136,,19573,19588,I was supposed to co-lead a P too which is the month prior but I was able to get myself out of that ,19530,19630
+salti/bert-base-multilingual-cased-finetuned-squad,17030,0,4,What date is set for another meeting?,Monday right,-1.47492528,,227,239,"hat it's turning out to be less crazy. It's Monday right?""
+operator said ""Tell me about the dog in t",183,283
+salti/bert-base-multilingual-cased-finetuned-squad,17030,1,0,What date is proposed for the next meeting?,no_answer,4.728769496,2,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,17030,1,1,What date is proposed for the next meeting?,the month prior,-0.104259476,,19573,19588,I was supposed to co-lead a P too which is the month prior but I was able to get myself out of that ,19530,19630
+salti/bert-base-multilingual-cased-finetuned-squad,17030,1,2,What date is proposed for the next meeting?,Monday,-0.401214302,,227,233,"y that it's turning out to be less crazy. It's Monday right?""
+operator said ""Tell me about the dog i",180,280
+salti/bert-base-multilingual-cased-finetuned-squad,17030,1,3,What date is proposed for the next meeting?,month prior,-1.295191288,,19577,19588,was supposed to co-lead a P too which is the month prior but I was able to get myself out of that be,19532,19632
+salti/bert-base-multilingual-cased-finetuned-squad,17030,1,4,What date is proposed for the next meeting?,It's Monday,-1.928484082,,222,233,"appy that it's turning out to be less crazy. It's Monday right?""
+operator said ""Tell me about the do",177,277
+salti/bert-base-multilingual-cased-finetuned-squad,17194,0,0,What date is set for another meeting?,no_answer,4.665407896,2,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,17194,0,1,What date is set for another meeting?,six month mark,-5.541397095,,14240,14254,ligrams of Xeljanz and when we reached the six month mark all of them switched and Xeljanz that is w,14197,14297
+salti/bert-base-multilingual-cased-finetuned-squad,17194,0,2,What date is set for another meeting?,Yula recently,-6.270885468,,10658,10671,n and fatique in patients. And and I was at Yula recently and it seemed to be sort of real topic loo,10614,10714
+salti/bert-base-multilingual-cased-finetuned-squad,17194,0,3,What date is set for another meeting?,recently,-6.757642269,,10663,10671,nd fatique in patients. And and I was at Yula recently and it seemed to be sort of real topic lookin,10617,10717
+salti/bert-base-multilingual-cased-finetuned-squad,17194,0,4,What date is set for another meeting?,the six month mark,-7.851648331,,14236,14254,illigrams of Xeljanz and when we reached the six month mark all of them switched and Xeljanz that is,14195,14295
+salti/bert-base-multilingual-cased-finetuned-squad,17194,1,0,What date is proposed for the next meeting?,no_answer,5.509896189,2,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,17194,1,1,What date is proposed for the next meeting?,six month mark,-3.662276268,,14240,14254,ligrams of Xeljanz and when we reached the six month mark all of them switched and Xeljanz that is w,14197,14297
+salti/bert-base-multilingual-cased-finetuned-squad,17194,1,2,What date is proposed for the next meeting?,Yula recently,-5.646821022,,10658,10671,n and fatique in patients. And and I was at Yula recently and it seemed to be sort of real topic loo,10614,10714
+salti/bert-base-multilingual-cased-finetuned-squad,17194,1,3,What date is proposed for the next meeting?,the six month mark,-5.696593285,,14236,14254,illigrams of Xeljanz and when we reached the six month mark all of them switched and Xeljanz that is,14195,14295
+salti/bert-base-multilingual-cased-finetuned-squad,17194,1,4,What date is proposed for the next meeting?,recently,-5.984323502,,10663,10671,nd fatique in patients. And and I was at Yula recently and it seemed to be sort of real topic lookin,10617,10717
+salti/bert-base-multilingual-cased-finetuned-squad,17227,0,0,What date is set for another meeting?,no_answer,4.218131065,2,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,17227,0,1,What date is set for another meeting?,the week after,-3.550534725,,12413,12427,"s the the meeting. Is it still monthly. So the week after next?""
+customer said ""Yeah.""
+operator said",12370,12470
+salti/bert-base-multilingual-cased-finetuned-squad,17227,0,2,What date is set for another meeting?,the week after next?,-3.845465183,,12413,12433,"he the meeting. Is it still monthly. So the week after next?""
+customer said ""Yeah.""
+operator said ""Y",12373,12473
+salti/bert-base-multilingual-cased-finetuned-squad,17227,0,3,What date is set for another meeting?,the week after next,-3.862923145,,12413,12432,"the the meeting. Is it still monthly. So the week after next?""
+customer said ""Yeah.""
+operator said """,12372,12472
+salti/bert-base-multilingual-cased-finetuned-squad,17227,0,4,What date is set for another meeting?,When's the the meeting. Is it still monthly,-4.30777359,,12365,12408,"send that over as requested. When's the the meeting. Is it still monthly. So the week after next?""
+c",12336,12436
+salti/bert-base-multilingual-cased-finetuned-squad,17227,1,0,What date is proposed for the next meeting?,no_answer,5.216165543,2,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,17227,1,1,What date is proposed for the next meeting?,the week after,3.987650871,,12413,12427,"s the the meeting. Is it still monthly. So the week after next?""
+customer said ""Yeah.""
+operator said",12370,12470
+salti/bert-base-multilingual-cased-finetuned-squad,17227,1,2,What date is proposed for the next meeting?,week after,3.464167356,,12417,12427,"the the meeting. Is it still monthly. So the week after next?""
+customer said ""Yeah.""
+operator said """,12372,12472
+salti/bert-base-multilingual-cased-finetuned-squad,17227,1,3,What date is proposed for the next meeting?,the week after next?,2.375680923,,12413,12433,"he the meeting. Is it still monthly. So the week after next?""
+customer said ""Yeah.""
+operator said ""Y",12373,12473
+salti/bert-base-multilingual-cased-finetuned-squad,17227,1,4,What date is proposed for the next meeting?,the week after next,2.184316874,,12413,12432,"the the meeting. Is it still monthly. So the week after next?""
+customer said ""Yeah.""
+operator said """,12372,12472
+salti/bert-base-multilingual-cased-finetuned-squad,17326,0,0,What date is set for another meeting?,no_answer,6.009706959,2,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,17326,0,1,What date is set for another meeting?,future,1.368296027,,9956,9962,"to the minutes of time spent. Current and then future.""
+customer said ""So is this this is about time",9909,10009
+salti/bert-base-multilingual-cased-finetuned-squad,17326,0,2,What date is set for another meeting?,"future.""
+customer said ""So is this this is about time this section then rather than cost?""
+operator said ""Absolutely. But on the next one will go into the realms of costs which are quite profound""
+customer said ""Yeah yeah.""
+operator said ""So again I talked a lot any questions there anything surprised?""
+customer said ""No say my biggest question really is that those are the JAK inhibitors coming onto the market so um this might change in terms of the percentages that we use of each therapy when you know opposition have been never reimbursed so that's just one thing I'd say really.""
+operator said ""That's a really good. I'm sure our colleagues at HQ are working on an updated model as we speak.""
+customer said ""Sounds great.""
+operator said ""So we're going to resource this is obviously looking at now Additional medicines against the resource side, kept in those future estimated from the resource sheet if that's okay with you Kerrianne.""
+customer said ""Mm hmm.""
+operator said ""So we will look at future",-0.575806797,,9956,10964,"future.""
+customer said ""So is this this is about time this section then rather than cost?""
+operator said ""Absolutely. But on the next one will go into the realms of costs which are quite profound""
+customer said ""Yeah yeah.""
+operator said ""So again I talked a lot any questions there anything surprised?""
+customer said ""No say my biggest question really is that those are the JAK inhibitors coming onto the market so um this might change in terms of the percentages that we use of each therapy when you know opposition have been never reimbursed so that's just one thing I'd say really.""
+operator said ""That's a really good. I'm sure our colleagues at HQ are working on an updated model as we speak.""
+customer said ""Sounds great.""
+operator said ""So we're going to resource this is obviously looking at now Additional medicines against the resource side, kept in those future estimated from the resource sheet if that's okay with you Kerrianne.""
+customer said ""Mm hmm.""
+operator said ""So we will look at future",9956,10964
+salti/bert-base-multilingual-cased-finetuned-squad,17326,0,3,What date is set for another meeting?,Current and then future,-1.407513857,,9939,9962,"e that into the minutes of time spent. Current and then future.""
+customer said ""So is this this is a",9900,10000
+salti/bert-base-multilingual-cased-finetuned-squad,17326,0,4,What date is set for another meeting?,"future.""
+customer said ""So is this this is about time this section then rather than cost?""
+operator said ""Absolutely. But on the next one will go into the realms of costs which are quite profound""
+customer said ""Yeah yeah.""
+operator said ""So again I talked a lot any questions there anything surprised?""
+customer said ""No say my biggest question really is that those are the JAK inhibitors coming onto the market so um this might change in terms of the percentages that we use of each therapy when you know opposition have been never reimbursed so that's just one thing I'd say really.""
+operator said ""That's a really good. I'm sure our colleagues at HQ are working on an updated model as we speak.""
+customer said ""Sounds great.""
+operator said ""So we're going to resource this is obviously looking at now Additional medicines against the resource side, kept in those future estimated from the resource sheet if that's okay with you Kerrianne.""
+customer said ""Mm hmm.""
+operator said ""So we will look at future. So toss the patient and then if we go extrapolate that patient's current and then future",-1.602369308,,9956,11054,"future.""
+customer said ""So is this this is about time this section then rather than cost?""
+operator said ""Absolutely. But on the next one will go into the realms of costs which are quite profound""
+customer said ""Yeah yeah.""
+operator said ""So again I talked a lot any questions there anything surprised?""
+customer said ""No say my biggest question really is that those are the JAK inhibitors coming onto the market so um this might change in terms of the percentages that we use of each therapy when you know opposition have been never reimbursed so that's just one thing I'd say really.""
+operator said ""That's a really good. I'm sure our colleagues at HQ are working on an updated model as we speak.""
+customer said ""Sounds great.""
+operator said ""So we're going to resource this is obviously looking at now Additional medicines against the resource side, kept in those future estimated from the resource sheet if that's okay with you Kerrianne.""
+customer said ""Mm hmm.""
+operator said ""So we will look at future. So toss the patient and then if we go extrapolate that patient's current and then future",9956,11054
+salti/bert-base-multilingual-cased-finetuned-squad,17326,1,0,What date is proposed for the next meeting?,no_answer,5.241939664,2,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,17326,1,1,What date is proposed for the next meeting?,future,1.21429503,,9956,9962,"to the minutes of time spent. Current and then future.""
+customer said ""So is this this is about time",9909,10009
+salti/bert-base-multilingual-cased-finetuned-squad,17326,1,2,What date is proposed for the next meeting?,19k,0.445129454,,4414,4417, For the rest of the patients you can get around 19k and then for the following years it's still a s,4365,4465
+salti/bert-base-multilingual-cased-finetuned-squad,17326,1,3,What date is proposed for the next meeting?,future,-0.728209436,,10958,10964,"id ""Mm hmm.""
+operator said ""So we will look at future. So toss the patient and then if we go extrapo",10911,11011
+salti/bert-base-multilingual-cased-finetuned-squad,17326,1,4,What date is proposed for the next meeting?,future.,-1.569777489,,9956,9963,"to the minutes of time spent. Current and then future.""
+customer said ""So is this this is about time",9909,10009
+salti/bert-base-multilingual-cased-finetuned-squad,18254,0,0,What date is set for another meeting?,no_answer,0.804574013,2,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,18254,0,1,What date is set for another meeting?,Woundclub which is a really good online modules that gets the CPD points of of different wound cares. How to keep up to date with them treating them,-7.360212326,,4511,4659,Woundclub which is a really good online modules that gets the CPD points of of different wound cares. How to keep up to date with them treating them,4511,4659
+salti/bert-base-multilingual-cased-finetuned-squad,18254,0,2,What date is set for another meeting?,Woundclub,-7.447616577,,4511,4520, we can offer you is we have something called Woundclub which is a really good online modules that g,4465,4565
+salti/bert-base-multilingual-cased-finetuned-squad,18254,0,3,What date is set for another meeting?,Woundclub which is a really good online modules that gets the CPD points of of different wound cares. How to keep up to date with them treating them.,-7.716457367,,4511,4660, Woundclub which is a really good online modules that gets the CPD points of of different wound cares. How to keep up to date with them treating them.,4510,4660
+salti/bert-base-multilingual-cased-finetuned-squad,18254,0,4,What date is set for another meeting?,our team is set up really to support you all in different ways that we can online or on or on the phone,-8.042118073,,1683,1786, our team is set up really to support you all in different ways that we can online or on or on the phone,1682,1786
+salti/bert-base-multilingual-cased-finetuned-squad,18254,1,0,What date is proposed for the next meeting?,no_answer,2.697127342,2,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,18254,1,1,What date is proposed for the next meeting?,a day or two,-4.490849495,,5840,5852,t I'll do is I'll just follow up. It may be a day or two. Just make sure that you've got it. And I'v,5796,5896
+salti/bert-base-multilingual-cased-finetuned-squad,18254,1,2,What date is proposed for the next meeting?,It may be a day or two,-5.911487579,,5830,5852,d what I'll do is I'll just follow up. It may be a day or two. Just make sure that you've got it. An,5791,5891
+salti/bert-base-multilingual-cased-finetuned-squad,18254,1,3,What date is proposed for the next meeting?,day or two,-6.188928604,,5842,5852, I'll do is I'll just follow up. It may be a day or two. Just make sure that you've got it. And I've,5797,5897
+salti/bert-base-multilingual-cased-finetuned-squad,18254,1,4,What date is proposed for the next meeting?,two,-6.907302856,,5849,5852,ll do is I'll just follow up. It may be a day or two. Just make sure that you've got it. And I've go,5800,5900
+salti/bert-base-multilingual-cased-finetuned-squad,18255,0,0,What date is set for another meeting?,no_answer,4.878459454,2,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,18255,0,1,What date is set for another meeting?,April,0.986945868,,1579,1584,ounds generally I've only been in nursing since April so I'm just going off what I have seen. So we ,1531,1631
+salti/bert-base-multilingual-cased-finetuned-squad,18255,0,2,What date is set for another meeting?,if that's due to the amount of X date,-3.645554781,,3410,3447,nd they should be lasting up to if that's due to the amount of X date that's coming out of the wound,3378,3478
+salti/bert-base-multilingual-cased-finetuned-squad,18255,0,3,What date is set for another meeting?,April so,-4.216440678,,1579,1587,nds generally I've only been in nursing since April so I'm just going off what I have seen. So we ha,1533,1633
+salti/bert-base-multilingual-cased-finetuned-squad,18255,0,4,What date is set for another meeting?,X date,-4.532125473,,3441,3447,e lasting up to if that's due to the amount of X date that's coming out of the wound the Allevyn lon,3394,3494
+salti/bert-base-multilingual-cased-finetuned-squad,18255,1,0,What date is proposed for the next meeting?,no_answer,4.913334846,2,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,18255,1,1,What date is proposed for the next meeting?,April,0.295757949,,1579,1584,ounds generally I've only been in nursing since April so I'm just going off what I have seen. So we ,1531,1631
+salti/bert-base-multilingual-cased-finetuned-squad,18255,1,2,What date is proposed for the next meeting?,if that's due to the amount of X date,-0.495933503,,3410,3447,nd they should be lasting up to if that's due to the amount of X date that's coming out of the wound,3378,3478
+salti/bert-base-multilingual-cased-finetuned-squad,18255,1,3,What date is proposed for the next meeting?,if that's due to the amount of X,-1.801970124,,3410,3442, and they should be lasting up to if that's due to the amount of X date that's coming out of the wou,3376,3476
+salti/bert-base-multilingual-cased-finetuned-squad,18255,1,4,What date is proposed for the next meeting?,X date,-2.145177603,,3441,3447,e lasting up to if that's due to the amount of X date that's coming out of the wound the Allevyn lon,3394,3494
+salti/bert-base-multilingual-cased-finetuned-squad,18256,0,0,What date is set for another meeting?,no_answer,-0.471979678,2,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,18256,0,1,What date is set for another meeting?,one week but we know if we don't just protect that for one week it's going to be something worse the following week,-9.579842567,,3523,3638, one week but we know if we don't just protect that for one week it's going to be something worse the following week,3522,3638
+salti/bert-base-multilingual-cased-finetuned-squad,18256,0,2,What date is set for another meeting?,one week it's going to be something worse the following week,-9.766418457,,3578,3638,"st protect that for one week it's going to be something worse the following week.""
+operator said ""Ye",3558,3658
+salti/bert-base-multilingual-cased-finetuned-squad,18256,0,3,What date is set for another meeting?,if we do we go for leaving. I'm for protection as well you know. Yeah sometimes. Yeah. Especially with the lady with just a high dose of steroids. It may be a little scab one week but we know if we don't just protect that for one week it's going to be something worse the following week,-9.81684494,,3352,3638,if we do we go for leaving. I'm for protection as well you know. Yeah sometimes. Yeah. Especially with the lady with just a high dose of steroids. It may be a little scab one week but we know if we don't just protect that for one week it's going to be something worse the following week,3352,3638
+salti/bert-base-multilingual-cased-finetuned-squad,18256,0,4,What date is set for another meeting?,one week,-10.06614685,,3523,3531,igh dose of steroids. It may be a little scab one week but we know if we don't just protect that for,3477,3577
+salti/bert-base-multilingual-cased-finetuned-squad,18256,1,0,What date is proposed for the next meeting?,no_answer,2.205563545,2,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,18256,1,1,What date is proposed for the next meeting?,one week it's going to be something worse the following week,-4.029185772,,3578,3638,"st protect that for one week it's going to be something worse the following week.""
+operator said ""Ye",3558,3658
+salti/bert-base-multilingual-cased-finetuned-squad,18256,1,2,What date is proposed for the next meeting?,if we don't just protect that for one week it's going to be something worse the following week,-4.255147934,,3544,3638,"ow if we don't just protect that for one week it's going to be something worse the following week.""
+",3541,3641
+salti/bert-base-multilingual-cased-finetuned-squad,18256,1,3,What date is proposed for the next meeting?,one week but we know if we don't just protect that for one week it's going to be something worse the following week,-4.613109589,,3523,3638, one week but we know if we don't just protect that for one week it's going to be something worse the following week,3522,3638
+salti/bert-base-multilingual-cased-finetuned-squad,18256,1,4,What date is proposed for the next meeting?,it's going to be something worse the following week,-4.839498043,,3587,3638,"rotect that for one week it's going to be something worse the following week.""
+operator said ""Yeah a",3562,3662
+salti/bert-base-multilingual-cased-finetuned-squad,18257,0,0,What date is set for another meeting?,no_answer,4.851864815,2,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,18257,0,1,What date is set for another meeting?,Thursday or Friday,2.517428398,,4230,4248,s say about a week to 10 days maybe next Thursday or Friday. And we can discuss how the use of that ,4189,4289
+salti/bert-base-multilingual-cased-finetuned-squad,18257,0,2,What date is set for another meeting?,Friday,2.340235233,,4242,4248,about a week to 10 days maybe next Thursday or Friday. And we can discuss how the use of that foam d,4195,4295
+salti/bert-base-multilingual-cased-finetuned-squad,18257,0,3,What date is set for another meeting?,Thursday,0.711918592,,4230,4238, let's say about a week to 10 days maybe next Thursday or Friday. And we can discuss how the use of ,4184,4284
+salti/bert-base-multilingual-cased-finetuned-squad,18257,0,4,What date is set for another meeting?,next Thursday or Friday,0.329816222,,4225,4248,et's say about a week to 10 days maybe next Thursday or Friday. And we can discuss how the use of th,4186,4286
+salti/bert-base-multilingual-cased-finetuned-squad,18257,1,0,What date is proposed for the next meeting?,no_answer,4.97925663,2,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,18257,1,1,What date is proposed for the next meeting?,Thursday or Friday,3.106731415,,4230,4248,s say about a week to 10 days maybe next Thursday or Friday. And we can discuss how the use of that ,4189,4289
+salti/bert-base-multilingual-cased-finetuned-squad,18257,1,2,What date is proposed for the next meeting?,Friday,2.822921753,,4242,4248,about a week to 10 days maybe next Thursday or Friday. And we can discuss how the use of that foam d,4195,4295
+salti/bert-base-multilingual-cased-finetuned-squad,18257,1,3,What date is proposed for the next meeting?,next Thursday or Friday,0.832340002,,4225,4248,et's say about a week to 10 days maybe next Thursday or Friday. And we can discuss how the use of th,4186,4286
+salti/bert-base-multilingual-cased-finetuned-squad,18257,1,4,What date is proposed for the next meeting?,Thursday,0.821308374,,4230,4238, let's say about a week to 10 days maybe next Thursday or Friday. And we can discuss how the use of ,4184,4284
+salti/bert-base-multilingual-cased-finetuned-squad,18258,0,0,What date is set for another meeting?,no_answer,-1.200144768,2,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,18258,0,1,What date is set for another meeting?,morning,-3.162831783,,512,519,"id ""Thank you.""
+customer said ""Hello. Hi. Good morning.""
+operator said ""Good morning Olivia. How are",465,565
+salti/bert-base-multilingual-cased-finetuned-squad,18258,0,2,What date is set for another meeting?,weekend,-4.150446892,,1508,1515,"hat's OK.""
+customer said ""I can do it over the weekend, I mean.""
+operator said ""You can do it whenev",1461,1561
+salti/bert-base-multilingual-cased-finetuned-squad,18258,0,3,What date is set for another meeting?,morning.,-4.949442387,,512,520,"d ""Thank you.""
+customer said ""Hello. Hi. Good morning.""
+operator said ""Good morning Olivia. How are ",466,566
+salti/bert-base-multilingual-cased-finetuned-squad,18258,0,4,What date is set for another meeting?,"weekend, I mean.""
+operator said ""You can do it whenever you want to. Please don't feel pressurised. I just wanted to really make sure that you've got the emails. The whole idea the whole idea is there to support you for when you have got time to do it. Some of the modules are very short. So that's all. Umm one of the things that I could send across to you today",-5.164008141,,1508,1871," weekend, I mean.""
+operator said ""You can do it whenever you want to. Please don't feel pressurised. I just wanted to really make sure that you've got the emails. The whole idea the whole idea is there to support you for when you have got time to do it. Some of the modules are very short. So that's all. Umm one of the things that I could send across to you today",1507,1871
+salti/bert-base-multilingual-cased-finetuned-squad,18258,1,0,What date is proposed for the next meeting?,no_answer,0.460779876,2,0,0,,0,0
+salti/bert-base-multilingual-cased-finetuned-squad,18258,1,1,What date is proposed for the next meeting?,weekend,-3.031776667,,1508,1515,"hat's OK.""
+customer said ""I can do it over the weekend, I mean.""
+operator said ""You can do it whenev",1461,1561
+salti/bert-base-multilingual-cased-finetuned-squad,18258,1,2,What date is proposed for the next meeting?,when you have got time to do it,-3.659696102,,1728,1759,e idea is there to support you for when you have got time to do it. Some of the modules are very sho,1693,1793
+salti/bert-base-multilingual-cased-finetuned-squad,18258,1,3,What date is proposed for the next meeting?,"weekend, I mean.""
+operator said ""You can do it whenever you want to. Please don't feel pressurised. I just wanted to really make sure that you've got the emails. The whole idea the whole idea is there to support you for when you have got time to do it",-3.758704185,,1508,1759," weekend, I mean.""
+operator said ""You can do it whenever you want to. Please don't feel pressurised. I just wanted to really make sure that you've got the emails. The whole idea the whole idea is there to support you for when you have got time to do it",1507,1759
+salti/bert-base-multilingual-cased-finetuned-squad,18258,1,4,What date is proposed for the next meeting?,"weekend, I mean.""
+operator said ""You can do it whenever you want to. Please don't feel pressurised. I just wanted to really make sure that you've got the emails. The whole idea the whole idea is there to support you for when you have got time to do it. Some of the modules are very short. So that's all. Umm one of the things that I could send across to you today",-4.133154869,,1508,1871," weekend, I mean.""
+operator said ""You can do it whenever you want to. Please don't feel pressurised. I just wanted to really make sure that you've got the emails. The whole idea the whole idea is there to support you for when you have got time to do it. Some of the modules are very short. So that's all. Umm one of the things that I could send across to you today",1507,1871

@@ -1,0 +1,5 @@
+Meeting Proposed Results:
+accuracy: 0.5882352941176471
+precision: 0.5882352941176471
+recall: 1.0
+f1: 0.7407407407407407

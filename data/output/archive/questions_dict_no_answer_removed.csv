@@ -1,0 +1,12 @@
+question_ref,question,average_label,average_score,average_difference
+8,Is a meeting proposed in the future?,1.1,0.67668125926,0.5282458694759999
+9,Did the operator propose to keep in touch?,0.6363636363636364,0.2710765960636364,0.2059938147329545
+7,Is a follow up call proposed in the future?,0.3076923076923077,0.16497543041923077,0.12802156577057697
+0,When did the operator propose to speak again to customer?,0.18181818181818182,0.1191177468454545,0.09868464311772727
+4,What date is set for the next meeting?,0.5,0.13141789435000004,0.09684054016000004
+1,When did the operator propose to call back again?,0.08333333333333333,0.06742503940416676,0.07318044100624997
+5,What date is set for another meeting?,-0.5,-0.47544788420000006,-0.303138314184375
+10,Did the customer provide an email address?,-1.0,-0.6510153085249999,-0.50686253937125
+3,What date was set for another meeting,-1.0,-0.7842683196166668,-0.6135064305941667
+6,What is the date of the next meeting?,-1.1428571428571428,-0.9449198405499999,-0.7134179129350001
+2,Did the customer agree to speak again?,-1.4166666666666667,-1.0494942631583335,-0.8237122130095833

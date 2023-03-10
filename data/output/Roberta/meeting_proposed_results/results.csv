@@ -1,0 +1,22 @@
+conversation_id,question,answer,label,prediction
+10964,Is a follow-up meeting proposed?,if we catch up in about six weeks time,1,1
+12046,Is a meeting proposed in the future?,"in maybe four weeks time to get that feedback?""
+customer said ""give you a bit of update.""
+operator said ""Is it possible to book in a date and time or is it best for me to try you on a Thursday",1,1
+12838,Is a follow-up meeting proposed?,"we can arrange meeting for the practice clinical pharmacist to get me to present and and go from there?""",1,1
+13136,Is a follow-up meeting proposed?,we'll set up kind of like a stakeholder meeting,0,1
+13828,Is a follow-up meeting proposed?,we will look at calcium and vitamin D medication,0,1
+13960,Is a follow-up meeting proposed?,i've said to meet the following week,0,1
+16699,Is a meeting proposed in the future?,We can reschedule in a few more weeks,0,1
+16997,Is a follow-up meeting proposed?,"I'll follow up and will be in touch soon.""",1,1
+17030,Is a meeting proposed in the future?,no_answer,1,1
+17194,Is a meeting proposed in the future?,no_answer,1,1
+17227,Is a meeting proposed in the future?,no_answer,0,1
+17326,Is a follow-up meeting proposed?,Perhaps we could have a meeting. I could also take you through,0,1
+18254,Is a follow-up meeting proposed?,I'll just follow up,1,1
+18255,Is a meeting proposed in the future?,no_answer,1,1
+18256,Is a meeting proposed in the future?,I would like to spend some time with you just to have a chat around,1,1
+18257,Is a follow-up meeting proposed?,"if I could call you back in about a week and a half ten days and we can have a chat about how that's progressed. And then with that conversation in mind I could perhaps speak to your operations manager and discuss ordering and see how we can support you to kind of work alongside the guidelines that I've been put in place for skin tears as well. So would you be comfortable with using a couple of Allevyn dressings on a skin tears?""
+customer said ""Yes. Yeah.""
+operator said ""Brilliant. Well I'm going to do that jean peirre here and I'm going to give you a call back and let's say about a week to 10 days maybe next Thursday or Friday. And we can discuss how the use of that foam dressing has worked with the skin tear and then from that I'll have a chat with the operations manager.""",1,1
+18258,Is a meeting proposed in the future?,no_answer,0,1

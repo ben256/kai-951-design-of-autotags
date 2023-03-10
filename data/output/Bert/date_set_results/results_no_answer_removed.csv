@@ -1,0 +1,3 @@
+question_ref,question,average_label,average_score,average_difference
+1,What date is proposed for the next meeting?,1.0,1.195069806275,0.9463023547062499
+0,What date is set for another meeting?,0.4,0.78552609444,0.62381030083

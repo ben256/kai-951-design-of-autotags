@@ -1,0 +1,308 @@
+,model,conversation_id,question_ref,answer_ref,question,answer,score,offset_answer_start,offset_answer_end,context,offset_context_start,offset_context_end,normalised_score,score_difference,weighted_score
+0,deepset/xlm-roberta-large-squad2,10964,0,0,Is a meeting proposed in the future?,if we catch up in about six weeks time,5.358246803,16802,16840, and see how I get on. So maybe if we catch up in about six weeks time it'll give me a bit of time t,16771,16871,0.76791234015,0.09599547622999993,0.7006528373561004
+1,deepset/xlm-roberta-large-squad2,10964,0,1,Is a meeting proposed in the future?,maybe if we catch up in about six weeks time,3.721631527,16796,16840,ial and see how I get on. So maybe if we catch up in about six weeks time it'll give me a bit of tim,16768,16868,0.68608157635,0.0,0.0
+2,deepset/xlm-roberta-large-squad2,10964,0,2,Is a meeting proposed in the future?,we catch up in about six weeks time,3.154574871,16805,16840,and see how I get on. So maybe if we catch up in about six weeks time it'll give me a bit of time to,16772,16872,0.65772874355,0.0,0.0
+3,deepset/xlm-roberta-large-squad2,10964,0,3,Is a meeting proposed in the future?,"if we catch up in about six weeks time it'll give me a bit of time to start finding those patients and reviewing them. And then I can let you know how I've got on. And then we can start perhaps sharing some of those successes hopefully with the rest of my colleagues """,2.480381012,16802,17070, if we catch up in about six weeks time it'll give me a bit of time to start finding those patients and reviewing them. And then I can let you know how I've got on. And then we can start perhaps sharing some of those successes hopefully with the rest of my colleagues ,16802,17070,0.6240190506000001,0.0,0.0
+4,deepset/xlm-roberta-large-squad2,10964,0,4,Is a meeting proposed in the future?,if we catch up in about six weeks time it'll give me a bit of time to start finding those patients and reviewing them,2.476852179,16802,16919,e if we catch up in about six weeks time it'll give me a bit of time to start finding those patients and reviewing the,16801,16919,0.62384260895,0.0,0.0
+5,deepset/xlm-roberta-large-squad2,10964,1,0,Is a follow-up meeting proposed?,if we catch up in about six weeks time,5.875426292,16802,16840, and see how I get on. So maybe if we catch up in about six weeks time it'll give me a bit of time t,16771,16871,0.7937713146,0.09319165228000004,0.7261044419288072
+6,deepset/xlm-roberta-large-squad2,10964,1,1,Is a follow-up meeting proposed?,we catch up in about six weeks time,3.834233284,16805,16840,and see how I get on. So maybe if we catch up in about six weeks time it'll give me a bit of time to,16772,16872,0.6917116642,0.0,0.0
+7,deepset/xlm-roberta-large-squad2,10964,1,2,Is a follow-up meeting proposed?,maybe if we catch up in about six weeks time,3.706940651,16796,16840,ial and see how I get on. So maybe if we catch up in about six weeks time it'll give me a bit of tim,16768,16868,0.68534703255,0.0,0.0
+8,deepset/xlm-roberta-large-squad2,10964,1,3,Is a follow-up meeting proposed?,It might be that we we invite you back again Alex to do a group session,3.459639788,16526,16597,e this forward. It might be that we we invite you back again Alex to do a group session and also to ,16511,16611,0.6729819894,0.0,0.0
+9,deepset/xlm-roberta-large-squad2,10964,1,4,Is a follow-up meeting proposed?,It might be that we we invite you back again Alex to do a group session and also to catch up with my nurse,3.181726217,16526,16632, It might be that we we invite you back again Alex to do a group session and also to catch up with my nurs,16526,16632,0.65908631085,0.0,0.0
+10,deepset/xlm-roberta-large-squad2,12046,0,0,Is a meeting proposed in the future?,"in maybe four weeks time to get that feedback?""
+customer said ""give you a bit of update.""
+operator said ""Is it possible to book in a date and time or is it best for me to try you on a Thursday",0.837042272,26436,26628," in maybe four weeks time to get that feedback?""
+customer said ""give you a bit of update.""
+operator said ""Is it possible to book in a date and time or is it best for me to try you on a Thursda",26436,26628,0.5418521136,0.008145203579999927,0.5374742762013272
+11,deepset/xlm-roberta-large-squad2,12046,0,1,Is a meeting proposed in the future?,"it's OK to touch base with you again in maybe four weeks time to get that feedback?""
+customer said ""give you a bit of update.""
+operator said ""Is it possible to book in a date and time or is it best for me to try you on a Thursday",0.830858171,26399,26628,"n it's OK to touch base with you again in maybe four weeks time to get that feedback?""
+customer said ""give you a bit of update.""
+operator said ""Is it possible to book in a date and time or is it best for me to try you on a Thursda",26398,26628,0.54154290855,0.0,0.0
+12,deepset/xlm-roberta-large-squad2,12046,0,2,Is a meeting proposed in the future?,Is it possible to book in a date and time or is it best for me to try you on a Thursday,0.776012063,26542,26629," said ""Is it possible to book in a date and time or is it best for me to try you on a Thursday?""
+cus",26535,26635,0.53880060315,0.0,0.0
+13,deepset/xlm-roberta-large-squad2,12046,0,3,Is a meeting proposed in the future?,no_answer,0.621652246,0,0,,0,0,0.5310826123,0.0,0.0
+14,deepset/xlm-roberta-large-squad2,12046,0,4,Is a meeting proposed in the future?,"to touch base with you again in maybe four weeks time to get that feedback?""
+customer said ""give you a bit of update.""
+operator said ""Is it possible to book in a date and time or is it best for me to try you on a Thursday",0.30512625,26407,26628,"K to touch base with you again in maybe four weeks time to get that feedback?""
+customer said ""give you a bit of update.""
+operator said ""Is it possible to book in a date and time or is it best for me to try you on a Thursda",26406,26628,0.5152563125,0.0,0.0
+15,deepset/xlm-roberta-large-squad2,12046,1,0,Is a follow-up meeting proposed?,"it's OK to touch base with you again in maybe four weeks time to get that feedback?""",3.100916624,26399,26483,"and then it's OK to touch base with you again in maybe four weeks time to get that feedback?""
+custom",26391,26491,0.6550458312,0.019348917009999966,0.6426119852281885
+16,deepset/xlm-roberta-large-squad2,12046,1,1,Is a follow-up meeting proposed?,"Have you got them booked in for a follow up. Follow up?""
+customer said ""yeah in a couple of weeks time.""",3.049670219,2600,2704," Have you got them booked in for a follow up. Follow up?""
+customer said ""yeah in a couple of weeks time.",2600,2704,0.65248351095,0.0,0.0
+17,deepset/xlm-roberta-large-squad2,12046,1,2,Is a follow-up meeting proposed?,it's OK to touch base with you again in maybe four weeks time to get that feedback,2.577255249,26399,26481," and then it's OK to touch base with you again in maybe four weeks time to get that feedback?""
+custo",26390,26490,0.6288627624500001,0.0,0.0
+18,deepset/xlm-roberta-large-squad2,12046,1,3,Is a follow-up meeting proposed?,"Have you got them booked in for a follow up. Follow up?""",2.565070152,2600,2656,"r said ""Oh great news. Have you got them booked in for a follow up. Follow up?""
+customer said ""yeah ",2578,2678,0.6282535076,0.0,0.0
+19,deepset/xlm-roberta-large-squad2,12046,1,4,Is a follow-up meeting proposed?,it's OK to touch base with you again in maybe four weeks time,2.276779175,26399,26460,noon to you and then it's OK to touch base with you again in maybe four weeks time to get that feedb,26379,26479,0.6138389587499999,0.0,0.0
+20,deepset/xlm-roberta-large-squad2,12838,0,0,Is a meeting proposed in the future?,we can arrange meeting for the practice clinical pharmacist,4.465264797,13146,13205, is it something that we can arrange meeting for the practice clinical pharmacist to get me to prese,13125,13225,0.72326323985,0.053257853979999936,0.6866915229893304
+21,deepset/xlm-roberta-large-squad2,12838,0,1,Is a meeting proposed in the future?,"we can arrange meeting for the practice clinical pharmacist to get me to present and and go from there?""",3.785348892,13146,13250, we can arrange meeting for the practice clinical pharmacist to get me to present and and go from there?,13146,13250,0.6892674446,0.0,0.0
+22,deepset/xlm-roberta-large-squad2,12838,0,2,Is a meeting proposed in the future?,we can arrange meeting for the practice clinical pharmacist to get me to present and and go from there,3.422253847,13146,13248, we can arrange meeting for the practice clinical pharmacist to get me to present and and go from ther,13146,13248,0.67111269235,0.0,0.0
+23,deepset/xlm-roberta-large-squad2,12838,0,3,Is a meeting proposed in the future?,we can arrange meeting,2.908802986,13146,13168,the next step then is it something that we can arrange meeting for the practice clinical pharmacist ,13107,13207,0.6454401492999999,0.0,0.0
+24,deepset/xlm-roberta-large-squad2,12838,0,4,Is a meeting proposed in the future?,we can arrange meeting for the practice,2.418868065,13146,13185, step then is it something that we can arrange meeting for the practice clinical pharmacist to get m,13115,13215,0.62094340325,0.0,0.0
+25,deepset/xlm-roberta-large-squad2,12838,1,0,Is a follow-up meeting proposed?,"we can arrange meeting for the practice clinical pharmacist to get me to present and and go from there?""",4.214421749,13146,13250, we can arrange meeting for the practice clinical pharmacist to get me to present and and go from there?,13146,13250,0.71072108745,0.028378481860000027,0.6911084780425766
+26,deepset/xlm-roberta-large-squad2,12838,1,1,Is a follow-up meeting proposed?,we can arrange meeting for the practice clinical pharmacist,3.968537331,13146,13205, is it something that we can arrange meeting for the practice clinical pharmacist to get me to prese,13125,13225,0.69842686655,0.0,0.0
+27,deepset/xlm-roberta-large-squad2,12838,1,2,Is a follow-up meeting proposed?,we can arrange meeting for the practice clinical pharmacist to get me to present and and go from there,3.879736662,13146,13248, we can arrange meeting for the practice clinical pharmacist to get me to present and and go from ther,13146,13248,0.6939868331,0.0,0.0
+28,deepset/xlm-roberta-large-squad2,12838,1,3,Is a follow-up meeting proposed?,"is it something that we can arrange meeting for the practice clinical pharmacist to get me to present and and go from there?""",3.094889402,13125,13250,n is it something that we can arrange meeting for the practice clinical pharmacist to get me to present and and go from there?,13124,13250,0.6547444701,0.0,0.0
+29,deepset/xlm-roberta-large-squad2,12838,1,4,Is a follow-up meeting proposed?,we can arrange meeting for the practice clinical pharmacist to get me to present,3.076675415,13146,13226,thing that we can arrange meeting for the practice clinical pharmacist to get me to present and and ,13136,13236,0.65383377075,0.0,0.0
+30,deepset/xlm-roberta-large-squad2,13136,0,0,Is a meeting proposed in the future?,we'll set up kind of like a stakeholder meeting,6.635519028,23614,23661,ll find out who is and will we'll set up kind of like a stakeholder meeting like I did in Birmingham,23587,23687,0.8317759514,0.07651647093000002,0.7726551091981256
+31,deepset/xlm-roberta-large-squad2,13136,0,1,Is a meeting proposed in the future?,I'll meet them on Monday next week for a remote meeting,5.369122505,11750,11805,and CC you in. So A I'm I'll meet them on Monday next week for a remote meeting. OK so I'll do that ,11727,11827,0.76845612525,0.0,0.0
+32,deepset/xlm-roberta-large-squad2,13136,0,2,Is a meeting proposed in the future?,"I'll set up a meeting.""",4.855374336,39741,39764,"yway introducing you to Nicole and then I'll set up a meeting.""
+customer said ""if she you know if sh",39702,39802,0.7427687168,0.0,0.0
+33,deepset/xlm-roberta-large-squad2,13136,0,3,Is a meeting proposed in the future?,I'll set up a meeting,4.63138628,39741,39762,"nyway introducing you to Nicole and then I'll set up a meeting.""
+customer said ""if she you know if s",39701,39801,0.731569314,0.0,0.0
+34,deepset/xlm-roberta-large-squad2,13136,0,4,Is a meeting proposed in the future?,Monday next week for a remote meeting,4.034545898,11768,11805,u in. So A I'm I'll meet them on Monday next week for a remote meeting. OK so I'll do that and kind ,11736,11836,0.7017272949000001,0.0,0.0
+35,deepset/xlm-roberta-large-squad2,13136,1,0,Is a follow-up meeting proposed?,we'll set up kind of like a stakeholder meeting,5.699972153,23614,23661,ll find out who is and will we'll set up kind of like a stakeholder meeting like I did in Birmingham,23587,23687,0.7849986076500001,0.03209915639000005,0.7605844872460801
+36,deepset/xlm-roberta-large-squad2,13136,1,1,Is a follow-up meeting proposed?,"I'll set up a meeting.""",5.05631876,39741,39764,"yway introducing you to Nicole and then I'll set up a meeting.""
+customer said ""if she you know if sh",39702,39802,0.752815938,0.0,0.0
+37,deepset/xlm-roberta-large-squad2,13136,1,2,Is a follow-up meeting proposed?,"following on that so I'm meeting them on Monday so I'll speak you'll have an email from me anyway introducing you to Nicole and then I'll set up a meeting.""",4.934200287,39608,39764, following on that so I'm meeting them on Monday so I'll speak you'll have an email from me anyway introducing you to Nicole and then I'll set up a meeting.,39608,39764,0.74671001435,0.0,0.0
+38,deepset/xlm-roberta-large-squad2,13136,1,3,Is a follow-up meeting proposed?,"I'm meeting them on Monday so I'll speak you'll have an email from me anyway introducing you to Nicole and then I'll set up a meeting.""",4.870373726,39629,39764,o I'm meeting them on Monday so I'll speak you'll have an email from me anyway introducing you to Nicole and then I'll set up a meeting.,39628,39764,0.7435186863000001,0.0,0.0
+39,deepset/xlm-roberta-large-squad2,13136,1,4,Is a follow-up meeting proposed?,we'll set up kind of like a stakeholder meeting like I did in Birmingham,4.7290802,23614,23686,ho is and will we'll set up kind of like a stakeholder meeting like I did in Birmingham. So where it,23600,23700,0.73645401,0.0,0.0
+40,deepset/xlm-roberta-large-squad2,13828,0,0,Is a meeting proposed in the future?,no_answer,3.429176569,0,0,,0,0,0.6714588284499999,0.16295872153000002,0.5773711620362777
+41,deepset/xlm-roberta-large-squad2,13828,0,1,Is a meeting proposed in the future?,we will look at calcium and vitamin D medication prescribed medications first,0.124059319,5505,5582,So certainly we will look at calcium and vitamin D medication prescribed medications first and then.,5493,5593,0.50620296595,0.0,0.0
+42,deepset/xlm-roberta-large-squad2,13828,0,2,Is a meeting proposed in the future?,I can think of more than a handful,-0.401582122,2452,2486,"?""
+customer said ""Yes absolutely. I can think of more than a handful to be honest I would say more s",2419,2519,0.4799208939,0.0,0.0
+43,deepset/xlm-roberta-large-squad2,13828,0,3,Is a meeting proposed in the future?,more than a handful,-0.969573319,2467,2486,"omer said ""Yes absolutely. I can think of more than a handful to be honest I would say more so now w",2426,2526,0.45152133405,0.0,0.0
+44,deepset/xlm-roberta-large-squad2,13828,0,4,Is a meeting proposed in the future?,we will look at calcium and vitamin D medication,-1.332069755,5505,5553,ents as well. So certainly we will look at calcium and vitamin D medication prescribed medications f,5479,5579,0.43339651225000003,0.0,0.0
+45,deepset/xlm-roberta-large-squad2,13828,1,0,Is a follow-up meeting proposed?,we will look at calcium and vitamin D medication,4.071565151,5505,5553,ents as well. So certainly we will look at calcium and vitamin D medication prescribed medications f,5479,5579,0.70357825755,0.05388797283000013,0.6676025115465403
+46,deepset/xlm-roberta-large-squad2,13828,1,1,Is a follow-up meeting proposed?,"we will look at calcium and vitamin D medication prescribed medications first and then.""",3.875468969,5505,5593,"tainly we will look at calcium and vitamin D medication prescribed medications first and then.""
+oper",5499,5599,0.69377344845,0.0,0.0
+47,deepset/xlm-roberta-large-squad2,13828,1,2,Is a follow-up meeting proposed?,we will look at calcium and vitamin D medication prescribed medications first,2.817722797,5505,5582,So certainly we will look at calcium and vitamin D medication prescribed medications first and then.,5493,5593,0.64088613985,0.0,0.0
+48,deepset/xlm-roberta-large-squad2,13828,1,3,Is a follow-up meeting proposed?,we will look at calcium and vitamin D medication prescribed medications first and then,2.249919415,5505,5591,"rtainly we will look at calcium and vitamin D medication prescribed medications first and then.""
+ope",5498,5598,0.6124959707500001,0.0,0.0
+49,deepset/xlm-roberta-large-squad2,13828,1,4,Is a follow-up meeting proposed?,no_answer,1.95435214,0,0,,0,0,0.597717607,0.0,0.0
+50,deepset/xlm-roberta-large-squad2,13960,0,0,Is a meeting proposed in the future?,i've said to meet the following week,6.936964512,15711,15747,"I think is Back from the 16th so i've said to meet the following week. ""
+operator said ""It's that is",15679,15779,0.8468482256,0.04610692023999985,0.8095235861796177
+51,deepset/xlm-roberta-large-squad2,13960,0,1,Is a meeting proposed in the future?,they've agreed to meet the guy directorate manager is on Holiday back I think is Back from the 16th so i've said to meet the following week,6.52801466,15608,15747,o they've agreed to meet the guy directorate manager is on Holiday back I think is Back from the 16th so i've said to meet the following wee,15607,15747,0.826400733,0.0,0.0
+52,deepset/xlm-roberta-large-squad2,13960,0,2,Is a meeting proposed in the future?,i've said to meet the following week.,5.669178486,15711,15748,"I think is Back from the 16th so i've said to meet the following week. ""
+operator said ""It's that is",15679,15779,0.7834589243,0.0,0.0
+53,deepset/xlm-roberta-large-squad2,13960,0,3,Is a meeting proposed in the future?,they've agreed to meet,5.472771645,15608,15630,g to give themnice little emails and so they've agreed to meet the guy directorate manager is on Hol,15569,15669,0.77363858225,0.0,0.0
+54,deepset/xlm-roberta-large-squad2,13960,0,4,Is a meeting proposed in the future?,to meet the following week,5.467201233,15721,15747,"nk is Back from the 16th so i've said to meet the following week. ""
+operator said ""It's that is that",15684,15784,0.77336006165,0.0,0.0
+55,deepset/xlm-roberta-large-squad2,13960,1,0,Is a follow-up meeting proposed?,i've said to meet the following week,6.200843811,15711,15747,"I think is Back from the 16th so i've said to meet the following week. ""
+operator said ""It's that is",15679,15779,0.8100421905499999,0.03906038760999997,0.7795910615101231
+56,deepset/xlm-roberta-large-squad2,13960,1,1,Is a follow-up meeting proposed?,they've agreed to meet the guy directorate manager is on Holiday back I think is Back from the 16th so i've said to meet the following week,5.947977066,15608,15747,o they've agreed to meet the guy directorate manager is on Holiday back I think is Back from the 16th so i've said to meet the following wee,15607,15747,0.7973988533,0.0,0.0
+57,deepset/xlm-roberta-large-squad2,13960,1,2,Is a follow-up meeting proposed?,I've arranged to meet to do this meeting and we'll see what comes after that,5.098861694,17945,18021,"nute anyway. I've arranged to meet to do this meeting and we'll see what comes after that. ""
+operato",17933,18033,0.7549430847,0.0,0.0
+58,deepset/xlm-roberta-large-squad2,13960,1,3,Is a follow-up meeting proposed?,the guy directorate manager is on Holiday back I think is Back from the 16th so i've said to meet the following week,5.044964314,15631,15747, the guy directorate manager is on Holiday back I think is Back from the 16th so i've said to meet the following wee,15631,15747,0.7522482157,0.0,0.0
+59,deepset/xlm-roberta-large-squad2,13960,1,4,Is a follow-up meeting proposed?,they've agreed to meet the guy directorate manager is on Holiday back,4.805533409,15608,15677,le emails and so they've agreed to meet the guy directorate manager is on Holiday back I think is Ba,15592,15692,0.7402766704499999,0.0,0.0
+60,deepset/xlm-roberta-large-squad2,16699,0,0,Is a meeting proposed in the future?,We can reschedule in a few more weeks,6.275606155,16695,16732,ever we don't cover we can talk. We can reschedule in a few more weeks or you can send me some infor,16663,16763,0.8137803077499999,0.04830536364999993,0.7762817361885582
+61,deepset/xlm-roberta-large-squad2,16699,0,1,Is a meeting proposed in the future?,we're working with the FDA and then hopefully sometime early next year,5.828341484,24351,24421,"n right now. So we're working with the FDA and then hopefully sometime early next year.""
+customer sa",24336,24436,0.7914170742,0.0,0.0
+62,deepset/xlm-roberta-large-squad2,16699,0,2,Is a meeting proposed in the future?,"we're working with the FDA and then hopefully sometime early next year.""",5.791768074,24351,24423," right now. So we're working with the FDA and then hopefully sometime early next year.""
+customer sai",24337,24437,0.7895884037,0.0,0.0
+63,deepset/xlm-roberta-large-squad2,16699,0,3,Is a meeting proposed in the future?,"We can reschedule in a few more weeks or you can send me some information. I can look over it.""",4.356527328,16695,16790,"lk. We can reschedule in a few more weeks or you can send me some information. I can look over it.""
+",16692,16792,0.7178263664,0.0,0.0
+64,deepset/xlm-roberta-large-squad2,16699,0,4,Is a meeting proposed in the future?,in a few more weeks,4.295251369,16713,16732,on't cover we can talk. We can reschedule in a few more weeks or you can send me some information. I,16672,16772,0.71476256845,0.0,0.0
+65,deepset/xlm-roberta-large-squad2,16699,1,0,Is a follow-up meeting proposed?,"we're working with the FDA and then hopefully sometime early next year.""",5.15925169,24351,24423," right now. So we're working with the FDA and then hopefully sometime early next year.""
+customer sai",24337,24437,0.7579625845,0.047462067609999936,0.7236181699920146
+66,deepset/xlm-roberta-large-squad2,16699,1,1,Is a follow-up meeting proposed?,we're working with the FDA and then hopefully sometime early next year,5.123276711,24351,24421,"n right now. So we're working with the FDA and then hopefully sometime early next year.""
+customer sa",24336,24436,0.75616383555,0.0,0.0
+67,deepset/xlm-roberta-large-squad2,16699,1,2,Is a follow-up meeting proposed?,We can reschedule in a few more weeks,4.515395164,16695,16732,ever we don't cover we can talk. We can reschedule in a few more weeks or you can send me some infor,16663,16763,0.7257697582,0.0,0.0
+68,deepset/xlm-roberta-large-squad2,16699,1,3,Is a follow-up meeting proposed?,we're working with the FDA,3.267989397,24351,24377, this is a hot question right now. So we're working with the FDA and then hopefully sometime early n,24314,24414,0.6633994698500001,0.0,0.0
+69,deepset/xlm-roberta-large-squad2,16699,1,4,Is a follow-up meeting proposed?,if we could talk about those two that would be great. And then we can wrap it up. And whatever we don't cover we can talk. We can reschedule in a few more weeks,2.984138727,16572,16732, if we could talk about those two that would be great. And then we can wrap it up. And whatever we don't cover we can talk. We can reschedule in a few more week,16572,16732,0.6492069363499999,0.0,0.0
+70,deepset/xlm-roberta-large-squad2,16997,0,0,Is a meeting proposed in the future?,no_answer,3.391803026,0,0,,0,0,0.6695901513,0.07904157042000004,0.6205415710160013
+71,deepset/xlm-roberta-large-squad2,16997,0,1,Is a meeting proposed in the future?,we've met in the past,2.871810198,3031,3052,"is year.""
+customer said ""Yeah. So I know we've met in the past but I recently had a new role sort of",2991,3091,0.6435905099,0.0,0.0
+72,deepset/xlm-roberta-large-squad2,16997,0,2,Is a meeting proposed in the future?,I know we've met in the past,1.062933683,3024,3052," this year.""
+customer said ""Yeah. So I know we've met in the past but I recently had a new role sort",2988,3088,0.55314668415,0.0,0.0
+73,deepset/xlm-roberta-large-squad2,16997,0,3,Is a meeting proposed in the future?,we've met in the past but,0.971815348,3031,3056," year.""
+customer said ""Yeah. So I know we've met in the past but I recently had a new role sort of t",2993,3093,0.5485907674,0.0,0.0
+74,deepset/xlm-roberta-large-squad2,16997,0,4,Is a meeting proposed in the future?,we've met,0.756495833,3031,3040,"for this year.""
+customer said ""Yeah. So I know we've met in the past but I recently had a new role s",2985,3085,0.5378247916500001,0.0,0.0
+75,deepset/xlm-roberta-large-squad2,16997,1,0,Is a follow-up meeting proposed?,"I'll follow up and will be in touch soon.""",2.803109407,17724,17766,".""
+operator said ""No thats it I'll follow up and will be in touch soon.""
+customer said ""OK. Sounds g",17695,17795,0.6401554703500001,0.015294756880000038,0.6305119434647701
+76,deepset/xlm-roberta-large-squad2,16997,1,1,Is a follow-up meeting proposed?,"will follow up with yourself and the Lung Doc as well and kind of just kind of brainstorm and see where we land. But I will say to just based on the Patient Empowerment Alliance in general there's high interest in that area at a high level. But even drilling down further if we're focusing on an underserved population within that tumor type it's even more of high interest for the company as well. So.""
+customer said ""Hey Adam I got to run because it is nine fifty nine twenty five. I forgot that I had an appointment. Sure. I didn't know if there was any other key points you wanted to talk about.""
+operator said ""No thats it I'll follow up and will be in touch soon.""",2.475690126,17096,17766," will follow up with yourself and the Lung Doc as well and kind of just kind of brainstorm and see where we land. But I will say to just based on the Patient Empowerment Alliance in general there's high interest in that area at a high level. But even drilling down further if we're focusing on an underserved population within that tumor type it's even more of high interest for the company as well. So.""
+customer said ""Hey Adam I got to run because it is nine fifty nine twenty five. I forgot that I had an appointment. Sure. I didn't know if there was any other key points you wanted to talk about.""
+operator said ""No thats it I'll follow up and will be in touch soon.",17096,17766,0.6237845063,0.0,0.0
+77,deepset/xlm-roberta-large-squad2,16997,1,2,Is a follow-up meeting proposed?,"No thats it I'll follow up and will be in touch soon.""",2.464542627,17713,17767,"about.""
+operator said ""No thats it I'll follow up and will be in touch soon.""
+customer said ""OK. Sou",17690,17790,0.62322713135,0.0,0.0
+78,deepset/xlm-roberta-large-squad2,16997,1,3,Is a follow-up meeting proposed?,"""No thats it I'll follow up and will be in touch soon.""",2.392652035,17711,17766,"k about.""
+operator said ""No thats it I'll follow up and will be in touch soon.""
+customer said ""OK. S",17688,17788,0.61963260175,0.0,0.0
+79,deepset/xlm-roberta-large-squad2,16997,1,4,Is a follow-up meeting proposed?,"definitely will follow up with yourself and the Lung Doc as well and kind of just kind of brainstorm and see where we land. But I will say to just based on the Patient Empowerment Alliance in general there's high interest in that area at a high level. But even drilling down further if we're focusing on an underserved population within that tumor type it's even more of high interest for the company as well. So.""
+customer said ""Hey Adam I got to run because it is nine fifty nine twenty five. I forgot that I had an appointment. Sure. I didn't know if there was any other key points you wanted to talk about.""
+operator said ""No thats it I'll follow up and will be in touch soon.""",2.350077152,17085,17766,"t definitely will follow up with yourself and the Lung Doc as well and kind of just kind of brainstorm and see where we land. But I will say to just based on the Patient Empowerment Alliance in general there's high interest in that area at a high level. But even drilling down further if we're focusing on an underserved population within that tumor type it's even more of high interest for the company as well. So.""
+customer said ""Hey Adam I got to run because it is nine fifty nine twenty five. I forgot that I had an appointment. Sure. I didn't know if there was any other key points you wanted to talk about.""
+operator said ""No thats it I'll follow up and will be in touch soon.",17084,17766,0.6175038576,0.0,0.0
+80,deepset/xlm-roberta-large-squad2,17030,0,0,Is a meeting proposed in the future?,no_answer,5.927542597,0,0,,0,0,0.79637712985,0.22817938507000002,0.6484208573526989
+81,deepset/xlm-roberta-large-squad2,17030,0,1,Is a meeting proposed in the future?,two years,1.42736721,14209,14218,of pulling this out of my mind but I feel like two years would be a more reasonable amount of time e,14163,14263,0.5713683605,0.0,0.0
+82,deepset/xlm-roberta-large-squad2,17030,0,2,Is a meeting proposed in the future?,maybe in the future they'll be an extension to sort of see what that looks like longer than 52 years,0.16140756,13868,13968, maybe in the future they'll be an extension to sort of see what that looks like longer than 52 year,13868,13968,0.508070378,0.0,0.0
+83,deepset/xlm-roberta-large-squad2,17030,0,3,Is a meeting proposed in the future?,they'll be an extension to sort of see what that looks like longer than 52 years,0.091057211,13888,13968,"the future they'll be an extension to sort of see what that looks like longer than 52 years.""
+operat",13878,13978,0.50455286055,0.0,0.0
+84,deepset/xlm-roberta-large-squad2,17030,0,4,Is a meeting proposed in the future?,an extension to sort of see what that looks like longer than 52 years,-0.7876001,13899,13968,"uture they'll be an extension to sort of see what that looks like longer than 52 years.""
+operator sa",13883,13983,0.46061999499999995,0.0,0.0
+85,deepset/xlm-roberta-large-squad2,17030,1,0,Is a follow-up meeting proposed?,no_answer,5.058055878,0,0,,0,0,0.7529027939,0.15444641710000007,0.6521764741505386
+86,deepset/xlm-roberta-large-squad2,17030,1,1,Is a follow-up meeting proposed?,two years,4.326591969,14209,14218,of pulling this out of my mind but I feel like two years would be a more reasonable amount of time e,14163,14263,0.71632959845,0.0,0.0
+87,deepset/xlm-roberta-large-squad2,17030,1,2,Is a follow-up meeting proposed?,two years would be a more reasonable amount of time,2.494535923,14209,14260,f my mind but I feel like two years would be a more reasonable amount of time especially with covid ,14184,14284,0.62472679615,0.0,0.0
+88,deepset/xlm-roberta-large-squad2,17030,1,3,Is a follow-up meeting proposed?,maybe in the future they'll be an extension to sort of see what that looks like longer than 52 years,-0.88175416,13868,13968, maybe in the future they'll be an extension to sort of see what that looks like longer than 52 year,13868,13968,0.455912292,0.0,0.0
+89,deepset/xlm-roberta-large-squad2,17030,1,4,Is a follow-up meeting proposed?,I feel like two years,-1.15179193,14197,14218, kind of pulling this out of my mind but I feel like two years would be a more reasonable amount of ,14157,14257,0.4424104035,0.0,0.0
+90,deepset/xlm-roberta-large-squad2,17194,0,0,Is a meeting proposed in the future?,no_answer,3.83323127,0,0,,0,0,0.6916615635000001,0.17866580069000004,0.5868173684984294
+91,deepset/xlm-roberta-large-squad2,17194,0,1,Is a meeting proposed in the future?,We're hoping to get another rheumatologist in,-0.098661304,421,466,"""
+customer said ""Going good. We're hoping to get another rheumatologist in. And yeah that's the plan",393,493,0.49506693479999997,0.0,0.0
+92,deepset/xlm-roberta-large-squad2,17194,0,2,Is a meeting proposed in the future?,"Not yet still grey.""",-0.322296083,6241,6261,"et or is it still grey?""
+customer said ""Not yet still grey.""
+operator said ""I'm going to just come o",6201,6301,0.48388519585,0.0,0.0
+93,deepset/xlm-roberta-large-squad2,17194,0,3,Is a meeting proposed in the future?,Not yet still grey,-0.965781689,6241,6259,"yet or is it still grey?""
+customer said ""Not yet still grey.""
+operator said ""I'm going to just come ",6200,6300,0.45171091555,0.0,0.0
+94,deepset/xlm-roberta-large-squad2,17194,0,4,Is a meeting proposed in the future?,We're hoping to get another rheumatologist in. And yeah that's the plan,-1.146915913,421,492,"id ""Going good. We're hoping to get another rheumatologist in. And yeah that's the plan. Obviously y",406,506,0.44265420434999997,0.0,0.0
+95,deepset/xlm-roberta-large-squad2,17194,1,0,Is a follow-up meeting proposed?,no_answer,2.964921534,0,0,,0,0,0.6482460767,0.11416132927,0.581824247234224
+96,deepset/xlm-roberta-large-squad2,17194,1,1,Is a follow-up meeting proposed?,We're hoping to get another rheumatologist in,1.100504875,421,466,"""
+customer said ""Going good. We're hoping to get another rheumatologist in. And yeah that's the plan",393,493,0.5550252437500001,0.0,0.0
+97,deepset/xlm-roberta-large-squad2,17194,1,2,Is a follow-up meeting proposed?,We're hoping to get another rheumatologist in. And yeah that's the plan,0.139864445,421,492,"id ""Going good. We're hoping to get another rheumatologist in. And yeah that's the plan. Obviously y",406,506,0.50699322225,0.0,0.0
+98,deepset/xlm-roberta-large-squad2,17194,1,3,Is a follow-up meeting proposed?,"Not yet still grey.""",-0.167562783,6241,6261,"et or is it still grey?""
+customer said ""Not yet still grey.""
+operator said ""I'm going to just come o",6201,6301,0.49162186085000004,0.0,0.0
+99,deepset/xlm-roberta-large-squad2,17194,1,4,Is a follow-up meeting proposed?,Not yet still grey,-0.629253328,6241,6259,"yet or is it still grey?""
+customer said ""Not yet still grey.""
+operator said ""I'm going to just come ",6200,6300,0.46853733359999994,0.0,0.0
+100,deepset/xlm-roberta-large-squad2,17227,0,0,Is a meeting proposed in the future?,no_answer,4.202167988,0,0,,0,0,0.7101083993999999,0.17438086987,0.6046661842155233
+101,deepset/xlm-roberta-large-squad2,17227,0,1,Is a meeting proposed in the future?,in the event that meeting goes well,1.077317238,13472,13507, making it perhaps more localized in the event that meeting goes well let's hope it does. Would you ,13439,13539,0.5538658619,0.0,0.0
+102,deepset/xlm-roberta-large-squad2,17227,0,2,Is a meeting proposed in the future?,in the event that meeting goes well let's hope it does.,-0.135095119,13472,13527, perhaps more localized in the event that meeting goes well let's hope it does. Would you be okay wi,13449,13549,0.49324524405,0.0,0.0
+103,deepset/xlm-roberta-large-squad2,17227,0,3,Is a meeting proposed in the future?,in the event that meeting goes well let's hope it does,-0.392077923,13472,13526, perhaps more localized in the event that meeting goes well let's hope it does. Would you be okay wi,13449,13549,0.48039610385,0.0,0.0
+104,deepset/xlm-roberta-large-squad2,17227,0,4,Is a meeting proposed in the future?,that meeting goes well,-1.179559231,13485,13507, it perhaps more localized in the event that meeting goes well let's hope it does. Would you be okay,13446,13546,0.44102203845,0.0,0.0
+105,deepset/xlm-roberta-large-squad2,17227,1,0,Is a follow-up meeting proposed?,no_answer,2.927967906,0,0,,0,0,0.6463983953,0.0972876668,0.5890874515933272
+106,deepset/xlm-roberta-large-squad2,17227,1,1,Is a follow-up meeting proposed?,I'm going to do a generic discussion,1.454003096,1585,1621, the service now following along I'm going to do a generic discussion. And I'll show you in a second,1553,1653,0.5727001548,0.0,0.0
+107,deepset/xlm-roberta-large-squad2,17227,1,2,Is a follow-up meeting proposed?,if you can send the report and I can then present that to the clinical team,0.746110797,11319,11394, yeah I think if you can send the report and I can then present that to the clinical team it's defin,11306,11406,0.53730553985,0.0,0.0
+108,deepset/xlm-roberta-large-squad2,17227,1,3,Is a follow-up meeting proposed?,I'm going to do a generic discussion.,-0.081357837,1585,1622, the service now following along I'm going to do a generic discussion. And I'll show you in a second,1553,1653,0.49593210815,0.0,0.0
+109,deepset/xlm-roberta-large-squad2,17227,1,4,Is a follow-up meeting proposed?,following along I'm going to do a generic discussion,-0.135651112,1569,1621,o you in the service now following along I'm going to do a generic discussion. And I'll show you in ,1545,1645,0.49321744440000004,0.0,0.0
+110,deepset/xlm-roberta-large-squad2,17326,0,0,Is a meeting proposed in the future?,Perhaps we could have a meeting,7.303479195,13499,13530," That'll be great.""
+operator said ""Perhaps we could have a meeting. I could also take you through. S",13464,13564,0.8651739597500001,0.05140890123999997,0.8228710625615211
+111,deepset/xlm-roberta-large-squad2,17326,0,1,Is a meeting proposed in the future?,Perhaps we could have a meeting. I could also take you through,6.609019279,13499,13561,"t.""
+operator said ""Perhaps we could have a meeting. I could also take you through. She's actually se",13480,13580,0.8304509639500001,0.0,0.0
+112,deepset/xlm-roberta-large-squad2,17326,0,2,Is a meeting proposed in the future?,we could have a meeting,6.060525894,13506,13529,"at'll be great.""
+operator said ""Perhaps we could have a meeting. I could also take you through. She'",13467,13567,0.8030262947000001,0.0,0.0
+113,deepset/xlm-roberta-large-squad2,17326,0,3,Is a meeting proposed in the future?,"Perhaps we could have a meeting. I could also take you through. She's actually seen pathway pro. She hasn't seen the results in that model. So perhaps I could do a recap of the pathway that would benefit you to see that.""
+customer said ""Great, good option.""
+operator said ""Ok well let's arrange that again Kerrianne. I really appreciate your time. One last thing.""
+customer said ""Yeah.""
+operator said ""Can I say this to you on PDF? I've got your permission to email it to you everything we've just gone through.""
+customer said ""Yeah you can do.""
+operator said ""So I put it through and I can send it to you after this call.""
+customer said ""great. Thanks very much Jason.""
+operator said ""That Kerrianne really appreciate the time. And I'll arrange the next meeting",6.037415504,13499,14261,"Perhaps we could have a meeting. I could also take you through. She's actually seen pathway pro. She hasn't seen the results in that model. So perhaps I could do a recap of the pathway that would benefit you to see that.""
+customer said ""Great, good option.""
+operator said ""Ok well let's arrange that again Kerrianne. I really appreciate your time. One last thing.""
+customer said ""Yeah.""
+operator said ""Can I say this to you on PDF? I've got your permission to email it to you everything we've just gone through.""
+customer said ""Yeah you can do.""
+operator said ""So I put it through and I can send it to you after this call.""
+customer said ""great. Thanks very much Jason.""
+operator said ""That Kerrianne really appreciate the time. And I'll arrange the next meeting",13499,14261,0.8018707752,0.0,0.0
+114,deepset/xlm-roberta-large-squad2,17326,0,4,Is a meeting proposed in the future?,we could have a meeting. I could also take you through,5.366065979,13506,13560,"
+operator said ""Perhaps we could have a meeting. I could also take you through. She's actually seen ",13483,13583,0.76830329895,0.0,0.0
+115,deepset/xlm-roberta-large-squad2,17326,1,0,Is a follow-up meeting proposed?,Perhaps we could have a meeting. I could also take you through,6.530399799,13499,13561,"t.""
+operator said ""Perhaps we could have a meeting. I could also take you through. She's actually se",13480,13580,0.8265199899500001,0.038919610970000074,0.7955572127263143
+116,deepset/xlm-roberta-large-squad2,17326,1,1,Is a follow-up meeting proposed?,Perhaps we could have a meeting,6.372392654,13499,13530," That'll be great.""
+operator said ""Perhaps we could have a meeting. I could also take you through. S",13464,13564,0.8186196327000002,0.0,0.0
+117,deepset/xlm-roberta-large-squad2,17326,1,2,Is a follow-up meeting proposed?,we could have a meeting. I could also take you through,5.34375,13506,13560,"
+operator said ""Perhaps we could have a meeting. I could also take you through. She's actually seen ",13483,13583,0.7671875,0.0,0.0
+118,deepset/xlm-roberta-large-squad2,17326,1,3,Is a follow-up meeting proposed?,"Perhaps we could have a meeting. I could also take you through. She's actually seen pathway pro. She hasn't seen the results in that model. So perhaps I could do a recap of the pathway that would benefit you to see that.""
+customer said ""Great, good option.""
+operator said ""Ok well let's arrange that again Kerrianne. I really appreciate your time. One last thing.""
+customer said ""Yeah.""
+operator said ""Can I say this to you on PDF? I've got your permission to email it to you everything we've just gone through.""
+customer said ""Yeah you can do.""
+operator said ""So I put it through and I can send it to you after this call.""
+customer said ""great. Thanks very much Jason.""
+operator said ""That Kerrianne really appreciate the time. And I'll arrange the next meeting",5.32775259,13499,14261,"Perhaps we could have a meeting. I could also take you through. She's actually seen pathway pro. She hasn't seen the results in that model. So perhaps I could do a recap of the pathway that would benefit you to see that.""
+customer said ""Great, good option.""
+operator said ""Ok well let's arrange that again Kerrianne. I really appreciate your time. One last thing.""
+customer said ""Yeah.""
+operator said ""Can I say this to you on PDF? I've got your permission to email it to you everything we've just gone through.""
+customer said ""Yeah you can do.""
+operator said ""So I put it through and I can send it to you after this call.""
+customer said ""great. Thanks very much Jason.""
+operator said ""That Kerrianne really appreciate the time. And I'll arrange the next meeting",13499,14261,0.7663876295,0.0,0.0
+119,deepset/xlm-roberta-large-squad2,17326,1,4,Is a follow-up meeting proposed?,we could have a meeting,5.185742855,13506,13529,"at'll be great.""
+operator said ""Perhaps we could have a meeting. I could also take you through. She'",13467,13567,0.7592871427500001,0.0,0.0
+120,deepset/xlm-roberta-large-squad2,18254,0,0,Is a meeting proposed in the future?,no_answer,3.990002155,0,0,,0,0,0.6995001077499999,0.2770794892199999,0.5477341963868143
+121,deepset/xlm-roberta-large-squad2,18254,0,1,Is a meeting proposed in the future?,I can arrange to have a talk to you about other resources,-2.610510588,1064,1121, link to that and then I can arrange to have a talk to you about other resources that we have if tha,1042,1142,0.3694744706,0.0,0.0
+122,deepset/xlm-roberta-large-squad2,18254,0,2,Is a meeting proposed in the future?,online training for the nurses that give CPD points,-2.763036728,972,1023, that I can offer is some online training for the nurses that give CPD points. I can send you a link,947,1047,0.36184816360000005,0.0,0.0
+123,deepset/xlm-roberta-large-squad2,18254,0,3,Is a meeting proposed in the future?,I can send you a link to that and then I can arrange to have a talk to you about other resources,-3.153552055,1025,1121,s. I can send you a link to that and then I can arrange to have a talk to you about other resources ,1023,1123,0.34232239724999997,0.0,0.0
+124,deepset/xlm-roberta-large-squad2,18254,0,4,Is a meeting proposed in the future?,I can arrange to have a talk to you about other resources that we have,-3.220840931,1064,1134,o that and then I can arrange to have a talk to you about other resources that we have if that's OK?,1049,1149,0.33895795345,0.0,0.0
+125,deepset/xlm-roberta-large-squad2,18254,1,0,Is a follow-up meeting proposed?,I'll just follow up,3.499993801,5808,5827,at sent over for you. And what I'll do is I'll just follow up. It may be a day or two. Just make sur,5767,5867,0.67499969005,0.05793525577000014,0.6380349708250465
+126,deepset/xlm-roberta-large-squad2,18254,1,1,Is a follow-up meeting proposed?,I'll just follow up. It may be a day or two,2.510475159,5808,5851, for you. And what I'll do is I'll just follow up. It may be a day or two. Just make sure that you'v,5779,5879,0.62552375795,0.0,0.0
+127,deepset/xlm-roberta-large-squad2,18254,1,2,Is a follow-up meeting proposed?,I will get that sent over for you. And what I'll do is I'll just follow up,2.100378036,5753,5827,"d ""Brilliant. I will get that sent over for you. And what I'll do is I'll just follow up. It may be ",5740,5840,0.6050189018000001,0.0,0.0
+128,deepset/xlm-roberta-large-squad2,18254,1,3,Is a follow-up meeting proposed?,It may be a day or two,1.990111589,5829,5851,nd what I'll do is I'll just follow up. It may be a day or two. Just make sure that you've got it. A,5790,5890,0.5995055794499999,0.0,0.0
+129,deepset/xlm-roberta-large-squad2,18254,1,4,Is a follow-up meeting proposed?,I'll just follow up. It may be a day or two.,1.605484843,5808,5852,for you. And what I'll do is I'll just follow up. It may be a day or two. Just make sure that you've,5780,5880,0.58027424215,0.0,0.0
+130,deepset/xlm-roberta-large-squad2,18255,0,0,Is a meeting proposed in the future?,no_answer,2.729434967,0,0,,0,0,0.63647174835,0.20941584467999996,0.5262637753174173
+131,deepset/xlm-roberta-large-squad2,18255,0,1,Is a meeting proposed in the future?,"having a couple minutes to speak now?""
+customer said ""Yes let me check my time. Yes I do.""",-1.333470702,469,559,"l and having a couple minutes to speak now?""
+customer said ""Yes let me check my time. Yes I do.""
+ope",464,564,0.43332646490000004,0.0,0.0
+132,deepset/xlm-roberta-large-squad2,18255,0,2,Is a meeting proposed in the future?,"having a couple minutes to speak now?""
+customer said ""Yes let me check my time. Yes I do",-2.406544209,469,557,"ll and having a couple minutes to speak now?""
+customer said ""Yes let me check my time. Yes I do.""
+op",463,563,0.37967278955,0.0,0.0
+133,deepset/xlm-roberta-large-squad2,18255,0,3,Is a meeting proposed in the future?,"let me check my time. Yes I do.""",-2.863322258,527,559," to speak now?""
+customer said ""Yes let me check my time. Yes I do.""
+operator said ""Brilliant just qu",493,593,0.35683388709999997,0.0,0.0
+134,deepset/xlm-roberta-large-squad2,18255,0,4,Is a meeting proposed in the future?,"a couple minutes to speak now?""
+customer said ""Yes let me check my time. Yes I do.""",-3.420507431,476,559,"nd having a couple minutes to speak now?""
+customer said ""Yes let me check my time. Yes I do.""
+operat",467,567,0.32897462845000003,0.0,0.0
+135,deepset/xlm-roberta-large-squad2,18255,1,0,Is a follow-up meeting proposed?,no_answer,3.017530918,0,0,,0,0,0.6508765459,0.25118152856,0.5202095227933086
+136,deepset/xlm-roberta-large-squad2,18255,1,1,Is a follow-up meeting proposed?,"having a couple minutes to speak now?""
+customer said ""Yes let me check my time. Yes I do.""",-3.185595751,469,559,"l and having a couple minutes to speak now?""
+customer said ""Yes let me check my time. Yes I do.""
+ope",464,564,0.34072021245,0.0,0.0
+137,deepset/xlm-roberta-large-squad2,18255,1,2,Is a follow-up meeting proposed?,maybe give you a call back,-3.212183475,6401,6427,ill be at the bottom of the email. So maybe give you a call back and maybe about a month just see wh,6364,6464,0.33939082625,0.0,0.0
+138,deepset/xlm-roberta-large-squad2,18255,1,3,Is a follow-up meeting proposed?,maybe give you a call back and maybe about a month just see what your thoughts and feedback,-3.224088192,6401,6492,"l. So maybe give you a call back and maybe about a month just see what your thoughts and feedback, d",6396,6496,0.3387955904,0.0,0.0
+139,deepset/xlm-roberta-large-squad2,18255,1,4,Is a follow-up meeting proposed?,"maybe give you a call back and maybe about a month just see what your thoughts and feedback, double you got the email.""",-3.426161766,6401,6520,"o maybe give you a call back and maybe about a month just see what your thoughts and feedback, double you got the email.",6400,6520,0.3286919117,0.0,0.0
+140,deepset/xlm-roberta-large-squad2,18256,0,0,Is a meeting proposed in the future?,I would like to spend some time with you just to have a chat around,1.639736652,9265,9332,. And potentially I would like to spend some time with you just to have a chat around. We've got som,9248,9348,0.5819868326,0.025537691099999926,0.5674943375077285
+141,deepset/xlm-roberta-large-squad2,18256,0,1,Is a meeting proposed in the future?,potentially I would like to spend some time with you just to have a chat around,1.569650173,9253,9332,ils in. And potentially I would like to spend some time with you just to have a chat around. We've g,9242,9342,0.57848250865,0.0,0.0
+142,deepset/xlm-roberta-large-squad2,18256,0,2,Is a meeting proposed in the future?,I would like to spend some time with you,0.959661126,9265,9305,he details in. And potentially I would like to spend some time with you just to have a chat around. ,9235,9335,0.5479830563,0.0,0.0
+143,deepset/xlm-roberta-large-squad2,18256,0,3,Is a meeting proposed in the future?,potentially I would like to spend some time with you,0.889574647,9253,9305, all the details in. And potentially I would like to spend some time with you just to have a chat ar,9229,9329,0.54447873235,0.0,0.0
+144,deepset/xlm-roberta-large-squad2,18256,0,4,Is a meeting proposed in the future?,just to have a chat around,0.586291552,9306,9332,ould like to spend some time with you just to have a chat around. We've got some non promotional wou,9269,9369,0.5293145776,0.0,0.0
+145,deepset/xlm-roberta-large-squad2,18256,1,0,Is a follow-up meeting proposed?,no_answer,0.520822525,0,0,,0,0,0.52604112625,0.07221897244999997,0.4906097912518802
+146,deepset/xlm-roberta-large-squad2,18256,1,1,Is a follow-up meeting proposed?,potentially I would like to spend some time with you just to have a chat around,-0.577350378,9253,9332,ils in. And potentially I would like to spend some time with you just to have a chat around. We've g,9242,9342,0.4711324811,0.0,0.0
+147,deepset/xlm-roberta-large-squad2,18256,1,2,Is a follow-up meeting proposed?,I would like to spend some time with you just to have a chat around,-1.287278414,9265,9332,. And potentially I would like to spend some time with you just to have a chat around. We've got som,9248,9348,0.43563607930000003,0.0,0.0
+148,deepset/xlm-roberta-large-squad2,18256,1,3,Is a follow-up meeting proposed?,just to have a chat around,-1.499014378,9306,9332,ould like to spend some time with you just to have a chat around. We've got some non promotional wou,9269,9369,0.4250492811,0.0,0.0
+149,deepset/xlm-roberta-large-squad2,18256,1,4,Is a follow-up meeting proposed?,"potentially I would like to spend some time with you just to have a chat around. We've got some non promotional wound training that we can do so it's kind of like an online portal so you need to log on to whenever they get the chance in between and just educate them on different areas around. skins tears, pressure ulcers, diabetic ulcers just to help them stay on top of things.",-1.774963975,9253,9633," potentially I would like to spend some time with you just to have a chat around. We've got some non promotional wound training that we can do so it's kind of like an online portal so you need to log on to whenever they get the chance in between and just educate them on different areas around. skins tears, pressure ulcers, diabetic ulcers just to help them stay on top of things",9253,9633,0.41125180125,0.0,0.0
+150,deepset/xlm-roberta-large-squad2,18257,0,0,Is a meeting proposed in the future?,let's say about a week to 10 days maybe next Thursday or Friday,1.666488886,4184,4247,you a call back and let's say about a week to 10 days maybe next Thursday or Friday. And we can disc,4165,4265,0.5833244443,0.044361274850000076,0.5585466048458968
+151,deepset/xlm-roberta-large-squad2,18257,0,1,Is a meeting proposed in the future?,no_answer,1.191076636,0,0,,0,0,0.5595538318,0.0,0.0
+152,deepset/xlm-roberta-large-squad2,18257,0,2,Is a meeting proposed in the future?,"let's say about a week to 10 days maybe next Thursday or Friday. And we can discuss how the use of that foam dressing has worked with the skin tear and then from that I'll have a chat with the operations manager.""
+customer said ""Yep OK""
+operator said ""That's great Jean-Pierre thank you so much for taking the time. Could I just ask your surname please? Because I've got to write down who I've spoken to today.""
+customer said ""Amegan""
+operator said ""Amegan. Perfect. Thank you so much Jean-Pierre I really appreciate that. And I'll speak to you again in about maybe about a week",0.644259095,4184,4762," let's say about a week to 10 days maybe next Thursday or Friday. And we can discuss how the use of that foam dressing has worked with the skin tear and then from that I'll have a chat with the operations manager.""
+customer said ""Yep OK""
+operator said ""That's great Jean-Pierre thank you so much for taking the time. Could I just ask your surname please? Because I've got to write down who I've spoken to today.""
+customer said ""Amegan""
+operator said ""Amegan. Perfect. Thank you so much Jean-Pierre I really appreciate that. And I'll speak to you again in about maybe about a wee",4184,4762,0.5322129547500001,0.0,0.0
+153,deepset/xlm-roberta-large-squad2,18257,0,3,Is a meeting proposed in the future?,about a week to 10 days maybe next Thursday or Friday,0.245616972,4194,4247, call back and let's say about a week to 10 days maybe next Thursday or Friday. And we can discuss h,4170,4270,0.5122808486,0.0,0.0
+154,deepset/xlm-roberta-large-squad2,18257,0,4,Is a meeting proposed in the future?,if I could call you back in about a week and a half ten days and we can have a chat about how that's progressed. And then with that conversation in mind I could perhaps speak to your operations manager,0.148875356,3612,3813,n if I could call you back in about a week and a half ten days and we can have a chat about how that's progressed. And then with that conversation in mind I could perhaps speak to your operations manage,3611,3813,0.5074437678,0.0,0.0
+155,deepset/xlm-roberta-large-squad2,18257,1,0,Is a follow-up meeting proposed?,"if I could call you back in about a week and a half ten days and we can have a chat about how that's progressed. And then with that conversation in mind I could perhaps speak to your operations manager and discuss ordering and see how we can support you to kind of work alongside the guidelines that I've been put in place for skin tears as well. So would you be comfortable with using a couple of Allevyn dressings on a skin tears?""
+customer said ""Yes. Yeah.""
+operator said ""Brilliant. Well I'm going to do that jean peirre here and I'm going to give you a call back and let's say about a week to 10 days maybe next Thursday or Friday. And we can discuss how the use of that foam dressing has worked with the skin tear and then from that I'll have a chat with the operations manager.""",0.759374261,3612,4397,"n if I could call you back in about a week and a half ten days and we can have a chat about how that's progressed. And then with that conversation in mind I could perhaps speak to your operations manager and discuss ordering and see how we can support you to kind of work alongside the guidelines that I've been put in place for skin tears as well. So would you be comfortable with using a couple of Allevyn dressings on a skin tears?""
+customer said ""Yes. Yeah.""
+operator said ""Brilliant. Well I'm going to do that jean peirre here and I'm going to give you a call back and let's say about a week to 10 days maybe next Thursday or Friday. And we can discuss how the use of that foam dressing has worked with the skin tear and then from that I'll have a chat with the operations manager.",3611,4397,0.5379687130499999,0.01943983555999995,0.5277101151874081
+156,deepset/xlm-roberta-large-squad2,18257,1,1,Is a follow-up meeting proposed?,if I could call you back in about a week and a half ten days and we can have a chat about how that's progressed. And then with that conversation in mind,0.385587215,3612,3764, if I could call you back in about a week and a half ten days and we can have a chat about how that's progressed. And then with that conversation in min,3612,3764,0.5192793607499999,0.0,0.0
+157,deepset/xlm-roberta-large-squad2,18257,1,2,Is a follow-up meeting proposed?,if I could call you back in about a week and a half ten days and we can have a chat about how that's progressed.,0.349641323,3612,3724, if I could call you back in about a week and a half ten days and we can have a chat about how that's progressed,3612,3724,0.51748206615,0.0,0.0
+158,deepset/xlm-roberta-large-squad2,18257,1,3,Is a follow-up meeting proposed?,if I could call you back in about a week and a half ten days and we can have a chat about how that's progressed. And then with that conversation in mind I could perhaps speak to your operations manager,0.208621502,3612,3813,n if I could call you back in about a week and a half ten days and we can have a chat about how that's progressed. And then with that conversation in mind I could perhaps speak to your operations manage,3611,3813,0.5104310751,0.0,0.0
+159,deepset/xlm-roberta-large-squad2,18257,1,4,Is a follow-up meeting proposed?,I could perhaps speak to your operations manager,0.149663448,3765,3813, that conversation in mind I could perhaps speak to your operations manager and discuss ordering and,3739,3839,0.5074831724,0.0,0.0
+160,deepset/xlm-roberta-large-squad2,18258,0,0,Is a meeting proposed in the future?,no_answer,4.851257801,0,0,,0,0,0.74256289005,0.31542150735999996,0.5645056629340772
+161,deepset/xlm-roberta-large-squad2,18258,0,1,Is a meeting proposed in the future?,"OK. How are you?""
+operator said ""I'm not too bad",-2.932804823,596,644,"today?""
+customer said ""I'm OK. How are you?""
+operator said ""I'm not too bad. This is Antonia from Sm",570,670,0.35335975885000004,0.0,0.0
+162,deepset/xlm-roberta-large-squad2,18258,0,2,Is a meeting proposed in the future?,I'll probably phone back in a couple of weeks,-2.953257561,2957,3002,s it. No that's really good. I'll probably phone back in a couple of weeks give you a chance to have,2929,3029,0.35233712195,0.0,0.0
+163,deepset/xlm-roberta-large-squad2,18258,0,3,Is a meeting proposed in the future?,I'm not too bad,-3.112420082,630,645,"said ""I'm OK. How are you?""
+operator said ""I'm not too bad. This is Antonia from Smith and Nephew. I",587,687,0.3443789959,0.0,0.0
+164,deepset/xlm-roberta-large-squad2,18258,0,4,Is a meeting proposed in the future?,"I'm OK. How are you?""
+operator said ""I'm not too bad",-3.138637066,593,645," today?""
+customer said ""I'm OK. How are you?""
+operator said ""I'm not too bad. This is Antonia from S",569,669,0.3430681467,0.0,0.0
+165,deepset/xlm-roberta-large-squad2,18258,1,0,Is a follow-up meeting proposed?,no_answer,3.564266205,0,0,,0,0,0.67821331025,0.21088948250999995,0.5600951367123623
+166,deepset/xlm-roberta-large-squad2,18258,1,1,Is a follow-up meeting proposed?,I'll probably phone back in a couple of weeks give you a chance to have a look,-1.067410231,2957,3035,eally good. I'll probably phone back in a couple of weeks give you a chance to have a look. But if y,2946,3046,0.44662948845,0.0,0.0
+167,deepset/xlm-roberta-large-squad2,18258,1,2,Is a follow-up meeting proposed?,I'll probably phone back in a couple of weeks,-1.071318865,2957,3002,s it. No that's really good. I'll probably phone back in a couple of weeks give you a chance to have,2929,3029,0.44643405675,0.0,0.0
+168,deepset/xlm-roberta-large-squad2,18258,1,3,Is a follow-up meeting proposed?,"I'll probably phone back in a couple of weeks give you a chance to have a look. But if you've got my email details now, if there's anything I can help you with before just drop me an email",-1.995368242,2957,3145," I'll probably phone back in a couple of weeks give you a chance to have a look. But if you've got my email details now, if there's anything I can help you with before just drop me an emai",2957,3145,0.4002315879,0.0,0.0
+169,deepset/xlm-roberta-large-squad2,18258,1,4,Is a follow-up meeting proposed?,I'll probably phone back,-2.697786093,2957,2981,ow she does it. No that's really good. I'll probably phone back in a couple of weeks give you a chan,2919,3019,0.36511069535,0.0,0.0

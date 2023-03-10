@@ -1,0 +1,3 @@
+question_ref,question,average_label,average_score,average_difference
+0,Is a meeting proposed in the future?,0.7272727272727273,0.38521115725,0.3130800281011364
+1,Is a follow-up meeting proposed?,0.35714285714285715,0.19108263849642862,0.16628796670696427

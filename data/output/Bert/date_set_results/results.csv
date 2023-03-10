@@ -1,0 +1,18 @@
+conversation_id,question,answer,label,prediction
+10964,What date is set for another meeting?,no_answer,0,1
+12046,What date is proposed for the next meeting?,Thursday,1,1
+12838,What date is set for another meeting?,no_answer,1,1
+13136,What date is proposed for the next meeting?,middle of August,1,1
+13828,What date is set for another meeting?,no_answer,1,1
+13960,What date is proposed for the next meeting?,Wednesday the 4th of August,1,1
+16699,What date is set for another meeting?,Sunday,0,1
+16997,What date is proposed for the next meeting?,year or two,0,1
+17030,What date is set for another meeting?,no_answer,1,1
+17194,What date is set for another meeting?,no_answer,1,1
+17227,What date is set for another meeting?,no_answer,1,1
+17326,What date is set for another meeting?,no_answer,1,1
+18254,What date is set for another meeting?,no_answer,1,1
+18255,What date is set for another meeting?,no_answer,1,1
+18256,What date is set for another meeting?,no_answer,1,1
+18257,What date is set for another meeting?,no_answer,1,1
+18258,What date is set for another meeting?,no_answer,1,1

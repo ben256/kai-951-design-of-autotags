@@ -1,0 +1,410 @@
+model,conversation_id,question_ref,answer_ref,question,answer,score,manual_label,offset_answer_start,offset_answer_end,context,offset_context_start,offset_context_end
+deepset/xlm-roberta-large-squad2,10964,0,0,What date is set for another meeting?,no_answer,6.192006111,-2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,10964,0,1,What date is set for another meeting?,Asaba,-0.509621918,,7376,7381,in these now so recommending going straight from Asaba to LAMA LABA. And I know currently you're ten,7328,7428
+deepset/xlm-roberta-large-squad2,10964,0,2,What date is set for another meeting?,six weeks,-3.233387947,1,17232,17241,"this day in time suits me really well. So just six weeks from now I will be fine. ""
+operator said ""I",17186,17286
+deepset/xlm-roberta-large-squad2,10964,0,3,What date is set for another meeting?,"six weeks time it'll give me a bit of time to start finding those patients and reviewing them. And then I can let you know how I've got on. And then we can start perhaps sharing some of those successes hopefully with the rest of my colleagues ""
+operator said ""that would be brilliant. So if I send you an email with a few dates in about ""
+customer said ""well this day in time suits me really well. So just six weeks from now I will be fine. ""
+operator said ""I'll send you a calendar invite for that then. And we do have an email can send you as well as do telephone consultations with the clinicians have found it really useful because it is like a downloadable checklist for patients to the respimat. So just sort of a checklist of questions to ask. ""
+customer said ""And so it was very helpful. ""
+operator said ""And hey that is great. That's great. Yeah brilliant. Thank you very much. And I'll speak to you in six weeks",-3.559100628,,16826,17747,"t six weeks time it'll give me a bit of time to start finding those patients and reviewing them. And then I can let you know how I've got on. And then we can start perhaps sharing some of those successes hopefully with the rest of my colleagues ""
+operator said ""that would be brilliant. So if I send you an email with a few dates in about ""
+customer said ""well this day in time suits me really well. So just six weeks from now I will be fine. ""
+operator said ""I'll send you a calendar invite for that then. And we do have an email can send you as well as do telephone consultations with the clinicians have found it really useful because it is like a downloadable checklist for patients to the respimat. So just sort of a checklist of questions to ask. ""
+customer said ""And so it was very helpful. ""
+operator said ""And hey that is great. That's great. Yeah brilliant. Thank you very much. And I'll speak to you in six week",16825,17747
+deepset/xlm-roberta-large-squad2,10964,0,4,What date is set for another meeting?,six weeks,-3.71747303,,17738,17747,"rilliant. Thank you very much. And I'll speak to you in six weeks. I looking forward to it here by.""",17683,17783
+deepset/xlm-roberta-large-squad2,10964,1,0,What date is proposed for the next meeting?,no_answer,5.345842838,-2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,10964,1,1,What date is proposed for the next meeting?,Asaba,-1.225132942,,7376,7381,in these now so recommending going straight from Asaba to LAMA LABA. And I know currently you're ten,7328,7428
+deepset/xlm-roberta-large-squad2,10964,1,2,What date is proposed for the next meeting?,six weeks,-3.339635372,1,17232,17241,"this day in time suits me really well. So just six weeks from now I will be fine. ""
+operator said ""I",17186,17286
+deepset/xlm-roberta-large-squad2,10964,1,3,What date is proposed for the next meeting?,"six weeks time it'll give me a bit of time to start finding those patients and reviewing them. And then I can let you know how I've got on. And then we can start perhaps sharing some of those successes hopefully with the rest of my colleagues ""
+operator said ""that would be brilliant. So if I send you an email with a few dates in about ""
+customer said ""well this day in time suits me really well. So just six weeks from now I will be fine. ""
+operator said ""I'll send you a calendar invite for that then. And we do have an email can send you as well as do telephone consultations with the clinicians have found it really useful because it is like a downloadable checklist for patients to the respimat. So just sort of a checklist of questions to ask. ""
+customer said ""And so it was very helpful. ""
+operator said ""And hey that is great. That's great. Yeah brilliant. Thank you very much. And I'll speak to you in six weeks",-3.356825352,,16826,17747,"t six weeks time it'll give me a bit of time to start finding those patients and reviewing them. And then I can let you know how I've got on. And then we can start perhaps sharing some of those successes hopefully with the rest of my colleagues ""
+operator said ""that would be brilliant. So if I send you an email with a few dates in about ""
+customer said ""well this day in time suits me really well. So just six weeks from now I will be fine. ""
+operator said ""I'll send you a calendar invite for that then. And we do have an email can send you as well as do telephone consultations with the clinicians have found it really useful because it is like a downloadable checklist for patients to the respimat. So just sort of a checklist of questions to ask. ""
+customer said ""And so it was very helpful. ""
+operator said ""And hey that is great. That's great. Yeah brilliant. Thank you very much. And I'll speak to you in six week",16825,17747
+deepset/xlm-roberta-large-squad2,10964,1,4,What date is proposed for the next meeting?,six weeks,-3.653139591,,17738,17747,"rilliant. Thank you very much. And I'll speak to you in six weeks. I looking forward to it here by.""",17683,17783
+deepset/xlm-roberta-large-squad2,12046,0,0,What date is set for another meeting?,no_answer,2.826510727,-2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,12046,0,1,What date is set for another meeting?,Trixeo,-0.405171692,,2007,2013,"o or Bevespi that you've used?""
+customer said ""Trixeo.""
+operator said ""Perfect And what sort of pati",1960,2060
+deepset/xlm-roberta-large-squad2,12046,0,2,What date is set for another meeting?,four weeks,-0.738725305,,26445,26455,"it's OK to touch base with you again in maybe four weeks time to get that feedback?""
+customer said """,26400,26500
+deepset/xlm-roberta-large-squad2,12046,0,3,What date is set for another meeting?,in maybe four weeks,-0.780601859,,26436,26455,"then it's OK to touch base with you again in maybe four weeks time to get that feedback?""
+customer s",26395,26495
+deepset/xlm-roberta-large-squad2,12046,0,4,What date is set for another meeting?,"four weeks time to get that feedback?""
+customer said ""give you a bit of update.""
+operator said ""Is it possible to book in a date and time or is it best for me to try you on a Thursday",-0.90988028,,26445,26628,"e four weeks time to get that feedback?""
+customer said ""give you a bit of update.""
+operator said ""Is it possible to book in a date and time or is it best for me to try you on a Thursda",26444,26628
+deepset/xlm-roberta-large-squad2,12046,1,0,What date is proposed for the next meeting?,no_answer,4.015437603,-2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,12046,1,1,What date is proposed for the next meeting?,"four weeks time to get that feedback?""
+customer said ""give you a bit of update.""
+operator said ""Is it possible to book in a date and time or is it best for me to try you on a Thursday",-1.640397429,,26445,26628,"e four weeks time to get that feedback?""
+customer said ""give you a bit of update.""
+operator said ""Is it possible to book in a date and time or is it best for me to try you on a Thursda",26444,26628
+deepset/xlm-roberta-large-squad2,12046,1,2,What date is proposed for the next meeting?,Trixeo,-1.825491667,,2007,2013,"o or Bevespi that you've used?""
+customer said ""Trixeo.""
+operator said ""Perfect And what sort of pati",1960,2060
+deepset/xlm-roberta-large-squad2,12046,1,3,What date is proposed for the next meeting?,"in maybe four weeks time to get that feedback?""
+customer said ""give you a bit of update.""
+operator said ""Is it possible to book in a date and time or is it best for me to try you on a Thursday",-1.914662242,,26436,26628," in maybe four weeks time to get that feedback?""
+customer said ""give you a bit of update.""
+operator said ""Is it possible to book in a date and time or is it best for me to try you on a Thursda",26436,26628
+deepset/xlm-roberta-large-squad2,12046,1,4,What date is proposed for the next meeting?,Thursday,-2.028774738,1,26620,26628," and time or is it best for me to try you on a Thursday?""
+customer said ""Thursday's the best day Bec",26574,26674
+deepset/xlm-roberta-large-squad2,12838,0,0,What date is set for another meeting?,no_answer,6.417987823,2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,12838,0,1,What date is set for another meeting?,Pretty busy,-3.71043539,,160,171," time today. How are things?""
+customer said ""Pretty busy. Pretty busy as always cleaning out of thei",115,215
+deepset/xlm-roberta-large-squad2,12838,0,2,What date is set for another meeting?,Pretty busy. Pretty busy,-4.39715004,,160,184,"oday. How are things?""
+customer said ""Pretty busy. Pretty busy as always cleaning out of their exper",122,222
+deepset/xlm-roberta-large-squad2,12838,0,3,What date is set for another meeting?,Pretty busy.,-5.291255951,,160,172,"time today. How are things?""
+customer said ""Pretty busy. Pretty busy as always cleaning out of their",116,216
+deepset/xlm-roberta-large-squad2,12838,0,4,What date is set for another meeting?,great,-5.932889938,,3215,3220,"l. How's that sound?""
+customer said ""That sounds great. I think it's one of the ones where you have ",3167,3267
+deepset/xlm-roberta-large-squad2,12838,1,0,What date is proposed for the next meeting?,no_answer,6.701224804,2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,12838,1,1,What date is proposed for the next meeting?,Pretty busy,-5.524645805,,160,171," time today. How are things?""
+customer said ""Pretty busy. Pretty busy as always cleaning out of thei",115,215
+deepset/xlm-roberta-large-squad2,12838,1,2,What date is proposed for the next meeting?,great,-6.387868404,,3215,3220,"l. How's that sound?""
+customer said ""That sounds great. I think it's one of the ones where you have ",3167,3267
+deepset/xlm-roberta-large-squad2,12838,1,3,What date is proposed for the next meeting?,Pretty busy. Pretty busy,-6.655107975,,160,184,"oday. How are things?""
+customer said ""Pretty busy. Pretty busy as always cleaning out of their exper",122,222
+deepset/xlm-roberta-large-squad2,12838,1,4,What date is proposed for the next meeting?,cost,-6.685678482,,3577,3581,G generic prescribing and you mentioned you know cost. Is that why you think that is the reason behi,3529,3629
+deepset/xlm-roberta-large-squad2,13136,0,0,What date is set for another meeting?,next Monday,3.84960556,-2,14153,14164, then at the meet the lunch meeting with them next Monday is I'll mention to Tanya and Nicole. But t,14108,14208
+deepset/xlm-roberta-large-squad2,13136,0,1,What date is set for another meeting?,Monday next week,3.373836756,,11768,11784, and CC you in. So A I'm I'll meet them on Monday next week for a remote meeting. OK so I'll do that,11726,11826
+deepset/xlm-roberta-large-squad2,13136,0,2,What date is set for another meeting?,middle of August,3.205985308,,24564,24580, of like this week for a date kind of like middle of August when obviously it's raining and you know,24522,24622
+deepset/xlm-roberta-large-squad2,13136,0,3,What date is set for another meeting?,"Monday next week for a remote meeting. OK so I'll do that and kind of like put a face to a name. So I've seen her by email. But what I'll do after today is I'll just email her and CC you in and just go look Janine the Addenbrooke's you know this is your go to to this is the autoimmune liver nurse at Addenbrooke's. So I did put it in my emails like to her but I kind of presumed that Tanya was the kind of black hand and some of that over but in which case it would make way more sense for Nicole to dial into that MDT with Simon wouldn't it?""
+customer said ""Yeah yeah. I definitely I mean I'm I'm really surprised that Tanya hasn't said to her to get in touch with me either. That seems a bit.""
+operator said ""Like I say I don't know what I know that Tanya's just changed the time of my Monday meeting",2.947242022,,11768,12571,"n Monday next week for a remote meeting. OK so I'll do that and kind of like put a face to a name. So I've seen her by email. But what I'll do after today is I'll just email her and CC you in and just go look Janine the Addenbrooke's you know this is your go to to this is the autoimmune liver nurse at Addenbrooke's. So I did put it in my emails like to her but I kind of presumed that Tanya was the kind of black hand and some of that over but in which case it would make way more sense for Nicole to dial into that MDT with Simon wouldn't it?""
+customer said ""Yeah yeah. I definitely I mean I'm I'm really surprised that Tanya hasn't said to her to get in touch with me either. That seems a bit.""
+operator said ""Like I say I don't know what I know that Tanya's just changed the time of my Monday meetin",11767,12571
+deepset/xlm-roberta-large-squad2,13136,0,4,What date is set for another meeting?,no_answer,2.870576859,,0,0,,0,0
+deepset/xlm-roberta-large-squad2,13136,1,0,What date is proposed for the next meeting?,next Monday,5.448731422,-2,14153,14164, then at the meet the lunch meeting with them next Monday is I'll mention to Tanya and Nicole. But t,14108,14208
+deepset/xlm-roberta-large-squad2,13136,1,1,What date is proposed for the next meeting?,Monday,4.756995678,,14158,14164,en at the meet the lunch meeting with them next Monday is I'll mention to Tanya and Nicole. But then,14111,14211
+deepset/xlm-roberta-large-squad2,13136,1,2,What date is proposed for the next meeting?,middle of August,4.587043285,,24564,24580, of like this week for a date kind of like middle of August when obviously it's raining and you know,24522,24622
+deepset/xlm-roberta-large-squad2,13136,1,3,What date is proposed for the next meeting?,Monday,3.988710642,,11768,11774,l her and CC you in. So A I'm I'll meet them on Monday next week for a remote meeting. OK so I'll do,11721,11821
+deepset/xlm-roberta-large-squad2,13136,1,4,What date is proposed for the next meeting?,Monday next week,3.95649147,,11768,11784, and CC you in. So A I'm I'll meet them on Monday next week for a remote meeting. OK so I'll do that,11726,11826
+deepset/xlm-roberta-large-squad2,13828,0,0,What date is set for another meeting?,no_answer,6.263576984,2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,13828,0,1,What date is set for another meeting?,10 millimeters,-5.380976677,,7851,7865," tablet for these.""
+operator said ""So there 10 millimeters so there tiny what you actually saw on th",7808,7908
+deepset/xlm-roberta-large-squad2,13828,0,2,What date is set for another meeting?,"10 millimeters so there tiny what you actually saw on the screen there was exactly the right size.""
+customer said ""They're really small actually I'm probably behind the times I assume they were the page that the big horse pills.""
+operator said ""absolutely no. We took advice and we were the first to market. So we looked at some of the calcium and vitamin D three treatments and we wanted to make it easier because half the tablets that the elderly is taking nowadays are as you say horse tranquilisers not nice. I have to break off my tablets in half. And if it's a liquid capsule like that you do not want to have to go messing with it. So it's nice and easy with a sip of water. No need to worry about food either. So on the basis of all of that what would prevent you from calling your customer your patient from yesterday back in?""
+customer said ""No there's no reason for me not not to call them back in, hindsight was a wonderful thing",-5.785399437,,7851,8792,"e 10 millimeters so there tiny what you actually saw on the screen there was exactly the right size.""
+customer said ""They're really small actually I'm probably behind the times I assume they were the page that the big horse pills.""
+operator said ""absolutely no. We took advice and we were the first to market. So we looked at some of the calcium and vitamin D three treatments and we wanted to make it easier because half the tablets that the elderly is taking nowadays are as you say horse tranquilisers not nice. I have to break off my tablets in half. And if it's a liquid capsule like that you do not want to have to go messing with it. So it's nice and easy with a sip of water. No need to worry about food either. So on the basis of all of that what would prevent you from calling your customer your patient from yesterday back in?""
+customer said ""No there's no reason for me not not to call them back in, hindsight was a wonderful thin",7850,8792
+deepset/xlm-roberta-large-squad2,13828,0,3,What date is set for another meeting?,"today. Yes. And what the size of the tablet for these.""
+operator said ""So there 10 millimeters",-5.812271118,,7771,7865,"one today. Yes. And what the size of the tablet for these.""
+operator said ""So there 10 millimeters s",7768,7868
+deepset/xlm-roberta-large-squad2,13828,0,4,What date is set for another meeting?,"today. Yes. And what the size of the tablet for these.""
+operator said ""So there 10 millimeters so there tiny what you actually saw on the screen there was exactly the right size.""
+customer said ""They're really small actually I'm probably behind the times I assume they were the page that the big horse pills.""
+operator said ""absolutely no. We took advice and we were the first to market. So we looked at some of the calcium and vitamin D three treatments and we wanted to make it easier because half the tablets that the elderly is taking nowadays are as you say horse tranquilisers not nice. I have to break off my tablets in half. And if it's a liquid capsule like that you do not want to have to go messing with it. So it's nice and easy with a sip of water. No need to worry about food either. So on the basis of all of that what would prevent you from calling your customer your patient from yesterday back in?""
+customer said ""No there's no reason for me not not to call them back in, hindsight was a wonderful thing",-6.216693878,,7771,8792,"e today. Yes. And what the size of the tablet for these.""
+operator said ""So there 10 millimeters so there tiny what you actually saw on the screen there was exactly the right size.""
+customer said ""They're really small actually I'm probably behind the times I assume they were the page that the big horse pills.""
+operator said ""absolutely no. We took advice and we were the first to market. So we looked at some of the calcium and vitamin D three treatments and we wanted to make it easier because half the tablets that the elderly is taking nowadays are as you say horse tranquilisers not nice. I have to break off my tablets in half. And if it's a liquid capsule like that you do not want to have to go messing with it. So it's nice and easy with a sip of water. No need to worry about food either. So on the basis of all of that what would prevent you from calling your customer your patient from yesterday back in?""
+customer said ""No there's no reason for me not not to call them back in, hindsight was a wonderful thin",7770,8792
+deepset/xlm-roberta-large-squad2,13828,1,0,What date is proposed for the next meeting?,no_answer,6.300008774,2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,13828,1,1,What date is proposed for the next meeting?,today,-4.74703455,,7771,7776,day would be better to take this and say the one today. Yes. And what the size of the tablet for the,7723,7823
+deepset/xlm-roberta-large-squad2,13828,1,2,What date is proposed for the next meeting?,"today. Yes. And what the size of the tablet for these.""
+operator said ""So there 10 millimeters so there tiny what you actually saw on the screen there was exactly the right size.""
+customer said ""They're really small actually I'm probably behind the times I assume they were the page that the big horse pills.""
+operator said ""absolutely no. We took advice and we were the first to market. So we looked at some of the calcium and vitamin D three treatments and we wanted to make it easier because half the tablets that the elderly is taking nowadays are as you say horse tranquilisers not nice. I have to break off my tablets in half. And if it's a liquid capsule like that you do not want to have to go messing with it. So it's nice and easy with a sip of water. No need to worry about food either. So on the basis of all of that what would prevent you from calling your customer your patient from yesterday back in?""
+customer said ""No there's no reason for me not not to call them back in, hindsight was a wonderful thing",-5.171786308,,7771,8792,"e today. Yes. And what the size of the tablet for these.""
+operator said ""So there 10 millimeters so there tiny what you actually saw on the screen there was exactly the right size.""
+customer said ""They're really small actually I'm probably behind the times I assume they were the page that the big horse pills.""
+operator said ""absolutely no. We took advice and we were the first to market. So we looked at some of the calcium and vitamin D three treatments and we wanted to make it easier because half the tablets that the elderly is taking nowadays are as you say horse tranquilisers not nice. I have to break off my tablets in half. And if it's a liquid capsule like that you do not want to have to go messing with it. So it's nice and easy with a sip of water. No need to worry about food either. So on the basis of all of that what would prevent you from calling your customer your patient from yesterday back in?""
+customer said ""No there's no reason for me not not to call them back in, hindsight was a wonderful thin",7770,8792
+deepset/xlm-roberta-large-squad2,13828,1,3,What date is proposed for the next meeting?,"today. Yes. And what the size of the tablet for these.""
+operator said ""So there 10 millimeters so there tiny what you actually saw on the screen there was exactly the right size.""
+customer said ""They're really small actually I'm probably behind the times I assume they were the page that the big horse pills.""
+operator said ""absolutely no. We took advice and we were the first to market. So we looked at some of the calcium and vitamin D three treatments and we wanted to make it easier because half the tablets that the elderly is taking nowadays are as you say horse tranquilisers not nice. I have to break off my tablets in half. And if it's a liquid capsule like that you do not want to have to go messing with it. So it's nice and easy with a sip of water. No need to worry about food either. So on the basis of all of that what would prevent you from calling your customer your patient from yesterday back in?""
+customer said ""No there's no reason for me not not to call them back in, hindsight",-5.590999126,,7771,8770,"e today. Yes. And what the size of the tablet for these.""
+operator said ""So there 10 millimeters so there tiny what you actually saw on the screen there was exactly the right size.""
+customer said ""They're really small actually I'm probably behind the times I assume they were the page that the big horse pills.""
+operator said ""absolutely no. We took advice and we were the first to market. So we looked at some of the calcium and vitamin D three treatments and we wanted to make it easier because half the tablets that the elderly is taking nowadays are as you say horse tranquilisers not nice. I have to break off my tablets in half. And if it's a liquid capsule like that you do not want to have to go messing with it. So it's nice and easy with a sip of water. No need to worry about food either. So on the basis of all of that what would prevent you from calling your customer your patient from yesterday back in?""
+customer said ""No there's no reason for me not not to call them back in, hindsigh",7770,8770
+deepset/xlm-roberta-large-squad2,13828,1,4,What date is proposed for the next meeting?,"today. Yes. And what the size of the tablet for these.""
+operator said ""So there 10 millimeters",-5.611208916,,7771,7865,"one today. Yes. And what the size of the tablet for these.""
+operator said ""So there 10 millimeters s",7768,7868
+deepset/xlm-roberta-large-squad2,13960,0,0,What date is set for another meeting?,12th of August,4.853114605,-2,11449,11463,"eased best-run. I will see her again on the 12th of August to see if we can get that sorted first. """,11406,11506
+deepset/xlm-roberta-large-squad2,13960,0,1,What date is set for another meeting?,the following week,4.205634594,,15729,15747,"s Back from the 16th so i've said to meet the following week. ""
+operator said ""It's that is that it ",15688,15788
+deepset/xlm-roberta-large-squad2,13960,0,2,What date is set for another meeting?,no_answer,4.057188988,,0,0,,0,0
+deepset/xlm-roberta-large-squad2,13960,0,3,What date is set for another meeting?,week,2.852316618,,15743,15747,"from the 16th so i've said to meet the following week. ""
+operator said ""It's that is that it was Pau",15695,15795
+deepset/xlm-roberta-large-squad2,13960,0,4,What date is set for another meeting?,Wednesday the 4th of August,2.602997541,,20390,20417, a contract Cath I will put it on for Wednesday the 4th of August and that's good with you in the mo,20353,20453
+deepset/xlm-roberta-large-squad2,13960,1,0,What date is proposed for the next meeting?,Wednesday the 4th of August,5.643791199,2,20390,20417, a contract Cath I will put it on for Wednesday the 4th of August and that's good with you in the mo,20353,20453
+deepset/xlm-roberta-large-squad2,13960,1,1,What date is proposed for the next meeting?,fourth of August,5.429067135,,4272,4288,very keen so if we can put it down for the fourth of August I'll send you a contract all that sort o,4230,4330
+deepset/xlm-roberta-large-squad2,13960,1,2,What date is proposed for the next meeting?,4th of August,4.877303123,,20404,20417,ract Cath I will put it on for Wednesday the 4th of August and that's good with you in the morning. ,20360,20460
+deepset/xlm-roberta-large-squad2,13960,1,3,What date is proposed for the next meeting?,the fourth of August,4.433175087,,4268,4288," ""very keen so if we can put it down for the fourth of August I'll send you a contract all that sort",4228,4328
+deepset/xlm-roberta-large-squad2,13960,1,4,What date is proposed for the next meeting?,the following week,3.877011776,,15729,15747,"s Back from the 16th so i've said to meet the following week. ""
+operator said ""It's that is that it ",15688,15788
+deepset/xlm-roberta-large-squad2,16699,0,0,What date is set for another meeting?,no_answer,5.810510635,2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,16699,0,1,What date is set for another meeting?,in a few more weeks,-0.312881529,,16713,16732,on't cover we can talk. We can reschedule in a few more weeks or you can send me some information. I,16672,16772
+deepset/xlm-roberta-large-squad2,16699,0,2,What date is set for another meeting?,early next year,-1.767282486,,24406,24421,"ng with the FDA and then hopefully sometime early next year.""
+customer said ""OK.""
+operator said ""Yea",24363,24463
+deepset/xlm-roberta-large-squad2,16699,0,3,What date is set for another meeting?,great,-1.857954502,,579,584,"as that experience?""
+customer said ""Yeah. It was great. You know I really got to relax. My wife took",531,631
+deepset/xlm-roberta-large-squad2,16699,0,4,What date is set for another meeting?,sometime early next year,-2.367385626,,24397,24421,"orking with the FDA and then hopefully sometime early next year.""
+customer said ""OK.""
+operator said ",24359,24459
+deepset/xlm-roberta-large-squad2,16699,1,0,What date is proposed for the next meeting?,no_answer,3.825305939,2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,16699,1,1,What date is proposed for the next meeting?,early next year,0.850636899,,24406,24421,"ng with the FDA and then hopefully sometime early next year.""
+customer said ""OK.""
+operator said ""Yea",24363,24463
+deepset/xlm-roberta-large-squad2,16699,1,2,What date is proposed for the next meeting?,sometime early next year,0.339055121,,24397,24421,"orking with the FDA and then hopefully sometime early next year.""
+customer said ""OK.""
+operator said ",24359,24459
+deepset/xlm-roberta-large-squad2,16699,1,3,What date is proposed for the next meeting?,hopefully sometime early next year,-1.185667515,,24387,24421,"'re working with the FDA and then hopefully sometime early next year.""
+customer said ""OK.""
+operator ",24354,24454
+deepset/xlm-roberta-large-squad2,16699,1,4,What date is proposed for the next meeting?,"early next year.""",-1.278051615,,24406,24423,"g with the FDA and then hopefully sometime early next year.""
+customer said ""OK.""
+operator said ""Yeah",24364,24464
+deepset/xlm-roberta-large-squad2,16997,0,0,What date is set for another meeting?,no_answer,6.612324715,2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,16997,0,1,What date is set for another meeting?,nine fifty nine twenty five,-7.061053753,,17551,17578," ""Hey Adam I got to run because it is nine fifty nine twenty five. I forgot that I had an appointmen",17514,17614
+deepset/xlm-roberta-large-squad2,16997,0,2,What date is set for another meeting?,nine fifty nine twenty five. I forgot that I had an appointment,-8.764633179,,17551,17614,o run because it is nine fifty nine twenty five. I forgot that I had an appointment. Sure. I didn't ,17532,17632
+deepset/xlm-roberta-large-squad2,16997,0,3,What date is set for another meeting?,".""
+customer said ""Hey Adam I got to run because it is nine fifty nine twenty five",-9.202730179,,17498,17579,"s well. So.""
+customer said ""Hey Adam I got to run because it is nine fifty nine twenty five. I forgo",17488,17588
+deepset/xlm-roberta-large-squad2,16997,0,4,What date is set for another meeting?,twenty five,-9.214729309,,17567,17578,am I got to run because it is nine fifty nine twenty five. I forgot that I had an appointment. Sure.,17522,17622
+deepset/xlm-roberta-large-squad2,16997,1,0,What date is proposed for the next meeting?,no_answer,6.619111061,2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,16997,1,1,What date is proposed for the next meeting?,nine fifty nine twenty five,-7.116410255,,17551,17578," ""Hey Adam I got to run because it is nine fifty nine twenty five. I forgot that I had an appointmen",17514,17614
+deepset/xlm-roberta-large-squad2,16997,1,2,What date is proposed for the next meeting?,nine fifty nine twenty five. I forgot that I had an appointment,-9.174049377,,17551,17614,o run because it is nine fifty nine twenty five. I forgot that I had an appointment. Sure. I didn't ,17532,17632
+deepset/xlm-roberta-large-squad2,16997,1,3,What date is proposed for the next meeting?,nine fifty nine,-9.273319244,,17551,17566,"r said ""Hey Adam I got to run because it is nine fifty nine twenty five. I forgot that I had an appo",17508,17608
+deepset/xlm-roberta-large-squad2,16997,1,4,What date is proposed for the next meeting?,".""
+customer said ""Hey Adam I got to run because it is nine fifty nine twenty five",-9.288256645,,17498,17579,"s well. So.""
+customer said ""Hey Adam I got to run because it is nine fifty nine twenty five. I forgo",17488,17588
+deepset/xlm-roberta-large-squad2,17030,0,0,What date is set for another meeting?,no_answer,7.522506714,2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,17030,0,1,What date is set for another meeting?,two years,0.575372815,,14209,14218,of pulling this out of my mind but I feel like two years would be a more reasonable amount of time e,14163,14263
+deepset/xlm-roberta-large-squad2,17030,0,2,What date is set for another meeting?,Monday,-2.140146494,,226,232,"py that it's turning out to be less crazy. It's Monday right?""
+operator said ""Tell me about the dog ",179,279
+deepset/xlm-roberta-large-squad2,17030,0,3,What date is set for another meeting?,two years would be a more reasonable amount of time,-2.983305931,,14209,14260,f my mind but I feel like two years would be a more reasonable amount of time especially with covid ,14184,14284
+deepset/xlm-roberta-large-squad2,17030,0,4,What date is set for another meeting?,As an average it's surprising,-3.701093435,,17441,17470," surprising to you?""
+customer said ""As an average it's surprising to me yeah it would be I mean that",17405,17505
+deepset/xlm-roberta-large-squad2,17030,1,0,What date is proposed for the next meeting?,no_answer,7.482110977,2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,17030,1,1,What date is proposed for the next meeting?,two years,0.509249091,,14209,14218,of pulling this out of my mind but I feel like two years would be a more reasonable amount of time e,14163,14263
+deepset/xlm-roberta-large-squad2,17030,1,2,What date is proposed for the next meeting?,Monday,-1.889692068,,226,232,"py that it's turning out to be less crazy. It's Monday right?""
+operator said ""Tell me about the dog ",179,279
+deepset/xlm-roberta-large-squad2,17030,1,3,What date is proposed for the next meeting?,I will not be there,-2.623211622,,19045,19064,"n it. Will you be there?""
+operator said ""I will not be there. No no. I got I was supposed to co lead",19004,19104
+deepset/xlm-roberta-large-squad2,17030,1,4,What date is proposed for the next meeting?,two years would be a more reasonable amount of time,-3.273480415,,14209,14260,f my mind but I feel like two years would be a more reasonable amount of time especially with covid ,14184,14284
+deepset/xlm-roberta-large-squad2,17194,0,0,What date is set for another meeting?,no_answer,6.096030235,2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,17194,0,1,What date is set for another meeting?,pain,-8.473601341,,9357,9361,h RA it's probably the first thing is always the pain. Yeah and then the tiredness there always feel,9309,9409
+deepset/xlm-roberta-large-squad2,17194,0,2,What date is set for another meeting?,Xeljanz,-8.702936172,,5167,5174,a smoker then they're probably not the patient. Xeljanz there are but there are still lots of patien,5120,5220
+deepset/xlm-roberta-large-squad2,17194,0,3,What date is set for another meeting?,price,-8.996115685,,3517,3522," than the other?""
+customer said ""Um well I think price is one issue with this but I think. That that",3469,3569
+deepset/xlm-roberta-large-squad2,17194,0,4,What date is set for another meeting?,ince,-9.42443943,,10560,10564,because again mentioning our website we've got a ince video on there of of Illington talking about p,10512,10612
+deepset/xlm-roberta-large-squad2,17194,1,0,What date is proposed for the next meeting?,no_answer,7.034105301,2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,17194,1,1,What date is proposed for the next meeting?,ince video,-8.785301208,,10560,10570,ause again mentioning our website we've got a ince video on there of of Illington talking about pain,10515,10615
+deepset/xlm-roberta-large-squad2,17194,1,2,What date is proposed for the next meeting?,Xeljanz,-9.227095604,,5167,5174,a smoker then they're probably not the patient. Xeljanz there are but there are still lots of patien,5120,5220
+deepset/xlm-roberta-large-squad2,17194,1,3,What date is proposed for the next meeting?,a ince video,-9.344983101,,10558,10570,cause again mentioning our website we've got a ince video on there of of Illington talking about pai,10514,10614
+deepset/xlm-roberta-large-squad2,17194,1,4,What date is proposed for the next meeting?,wildfire,-9.456077576,,1035,1043,"g round all of us at Pfizer at the moment like wildfire. But yeah. Worse for you guys.""
+customer sai",989,1089
+deepset/xlm-roberta-large-squad2,17227,0,0,What date is set for another meeting?,no_answer,4.911682606,2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,17227,0,1,What date is set for another meeting?,the week after next,-0.996063828,,12412,12431," the the meeting. Is it still monthly. So the week after next?""
+customer said ""Yeah.""
+operator said ",12371,12471
+deepset/xlm-roberta-large-squad2,17227,0,2,What date is set for another meeting?,the week,-2.363152027,,12412,12420,"hen's the the meeting. Is it still monthly. So the week after next?""
+customer said ""Yeah.""
+operator ",12366,12466
+deepset/xlm-roberta-large-squad2,17227,0,3,What date is set for another meeting?,week after next,-2.415934801,,12416,12431,"he the meeting. Is it still monthly. So the week after next?""
+customer said ""Yeah.""
+operator said ""Y",12373,12473
+deepset/xlm-roberta-large-squad2,17227,0,4,What date is set for another meeting?,week,-3.748664379,,12416,12420,"n's the the meeting. Is it still monthly. So the week after next?""
+customer said ""Yeah.""
+operator sa",12368,12468
+deepset/xlm-roberta-large-squad2,17227,1,0,What date is proposed for the next meeting?,no_answer,6.224054337,2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,17227,1,1,What date is proposed for the next meeting?,the week after next,-0.786871076,,12412,12431," the the meeting. Is it still monthly. So the week after next?""
+customer said ""Yeah.""
+operator said ",12371,12471
+deepset/xlm-roberta-large-squad2,17227,1,2,What date is proposed for the next meeting?,the week after,-1.759982228,,12412,12426,"'s the the meeting. Is it still monthly. So the week after next?""
+customer said ""Yeah.""
+operator sai",12369,12469
+deepset/xlm-roberta-large-squad2,17227,1,3,What date is proposed for the next meeting?,week after next,-2.625313997,,12416,12431,"he the meeting. Is it still monthly. So the week after next?""
+customer said ""Yeah.""
+operator said ""Y",12373,12473
+deepset/xlm-roberta-large-squad2,17227,1,4,What date is proposed for the next meeting?,the week,-2.976424217,,12412,12420,"hen's the the meeting. Is it still monthly. So the week after next?""
+customer said ""Yeah.""
+operator ",12366,12466
+deepset/xlm-roberta-large-squad2,17326,0,0,What date is set for another meeting?,no_answer,5.675093651,2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,17326,0,1,What date is set for another meeting?,30 10,-4.89537859,,6120,6125," then did we say 40 percent.""
+customer said ""yep 30 10.""
+operator said ""Thank you great stuff then I",6072,6172
+deepset/xlm-roberta-large-squad2,17326,0,2,What date is set for another meeting?,"Perhaps we could have a meeting. I could also take you through. She's actually seen pathway pro. She hasn't seen the results in that model. So perhaps I could do a recap of the pathway that would benefit you to see that.""
+customer said ""Great, good option.""
+operator said ""Ok well let's arrange that again Kerrianne. I really appreciate your time. One last thing.""
+customer said ""Yeah.""
+operator said ""Can I say this to you on PDF? I've got your permission to email it to you everything we've just gone through.""
+customer said ""Yeah you can do.""
+operator said ""So I put it through and I can send it to you after this call.""
+customer said ""great. Thanks very much Jason.""
+operator said ""That Kerrianne really appreciate the time. And I'll arrange the next meeting",-4.994891167,,13499,14261,"Perhaps we could have a meeting. I could also take you through. She's actually seen pathway pro. She hasn't seen the results in that model. So perhaps I could do a recap of the pathway that would benefit you to see that.""
+customer said ""Great, good option.""
+operator said ""Ok well let's arrange that again Kerrianne. I really appreciate your time. One last thing.""
+customer said ""Yeah.""
+operator said ""Can I say this to you on PDF? I've got your permission to email it to you everything we've just gone through.""
+customer said ""Yeah you can do.""
+operator said ""So I put it through and I can send it to you after this call.""
+customer said ""great. Thanks very much Jason.""
+operator said ""That Kerrianne really appreciate the time. And I'll arrange the next meeting",13499,14261
+deepset/xlm-roberta-large-squad2,17326,0,3,What date is set for another meeting?,Perhaps,-6.812403202,,13499,13506,"Oh yes I do. That'll be great.""
+operator said ""Perhaps we could have a meeting. I could also take yo",13452,13552
+deepset/xlm-roberta-large-squad2,17326,0,4,What date is set for another meeting?,Perhaps we could have a meeting. I could also take you through,-7.154217243,,13499,13561,"t.""
+operator said ""Perhaps we could have a meeting. I could also take you through. She's actually se",13480,13580
+deepset/xlm-roberta-large-squad2,17326,1,0,What date is proposed for the next meeting?,no_answer,6.32525444,2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,17326,1,1,What date is proposed for the next meeting?,30 10,-0.090522766,,6120,6125," then did we say 40 percent.""
+customer said ""yep 30 10.""
+operator said ""Thank you great stuff then I",6072,6172
+deepset/xlm-roberta-large-squad2,17326,1,2,What date is proposed for the next meeting?,"30 10.""",-3.502946854,,6120,6127,"then did we say 40 percent.""
+customer said ""yep 30 10.""
+operator said ""Thank you great stuff then I ",6073,6173
+deepset/xlm-roberta-large-squad2,17326,1,3,What date is proposed for the next meeting?,10,-3.868035555,,6123,6125,"hen did we say 40 percent.""
+customer said ""yep 30 10.""
+operator said ""Thank you great stuff then I c",6074,6174
+deepset/xlm-roberta-large-squad2,17326,1,4,What date is proposed for the next meeting?,"30 10.""
+operator said ""Thank you great stuff then I can go into the breakdown and you can say so these are all the costings for dupilumab for example so you've got clinical interactions. Pretty much without one interaction one hospital consultant signed Nurse time and pharmacist time again you can see here weeks nine to 16",-4.944794178,,6120,6444," 30 10.""
+operator said ""Thank you great stuff then I can go into the breakdown and you can say so these are all the costings for dupilumab for example so you've got clinical interactions. Pretty much without one interaction one hospital consultant signed Nurse time and pharmacist time again you can see here weeks nine to 1",6120,6444
+deepset/xlm-roberta-large-squad2,18254,0,0,What date is set for another meeting?,no_answer,7.225502968,2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,18254,0,1,What date is set for another meeting?,"trauman and we will cover with the Alleyvn gentle. Yes that's right.""
+operator said ""Okay.""
+customer said ""For good to continue.""
+operator said ""That's okay. Because that's one of. Oh no. Yeah no that's fine now. That's good to know because umm one of the things that we've been sort of talking about his skin tears and I'm the way of treating them. And I think the new ISTAP advisory panel is sort of saying that we clean it with saline and then put on something like just Alleyvn gentle border. So it's not going to cause any more damage to the skin, you know that fragile skin.""
+customer said ""Yeah because we will, we would take it take it out. It will cause more damage than Alleyvn.""
+operator said ""Yeah and its so nice. Its so good to hear you saying that because I've been talking to some people and they've been using all sorts of things and I think oh no. Those poor patients. they all know""
+customer said ""And I said that it is one the best thing for me, skin breaks, skin flaps.""
+operator said ""Aww absolutely. Well listen Minimal",-5.08450222,,3049,4091,"trauman and we will cover with the Alleyvn gentle. Yes that's right.""
+operator said ""Okay.""
+customer said ""For good to continue.""
+operator said ""That's okay. Because that's one of. Oh no. Yeah no that's fine now. That's good to know because umm one of the things that we've been sort of talking about his skin tears and I'm the way of treating them. And I think the new ISTAP advisory panel is sort of saying that we clean it with saline and then put on something like just Alleyvn gentle border. So it's not going to cause any more damage to the skin, you know that fragile skin.""
+customer said ""Yeah because we will, we would take it take it out. It will cause more damage than Alleyvn.""
+operator said ""Yeah and its so nice. Its so good to hear you saying that because I've been talking to some people and they've been using all sorts of things and I think oh no. Those poor patients. they all know""
+customer said ""And I said that it is one the best thing for me, skin breaks, skin flaps.""
+operator said ""Aww absolutely. Well listen Minimal",3049,4091
+deepset/xlm-roberta-large-squad2,18254,0,2,What date is set for another meeting?,Minimal,-5.517317772,,4083,4090,"ps.""
+operator said ""Aww absolutely. Well listen Minimal, thank you.""
+customer said ""If you will leav",4036,4136
+deepset/xlm-roberta-large-squad2,18254,0,3,What date is set for another meeting?,trau,-5.589198112,,3049,3053,. I am using on the skin tear. We will use the Atrauman and we will cover with the Alleyvn gentle. Y,3001,3101
+deepset/xlm-roberta-large-squad2,18254,0,4,What date is set for another meeting?,trauman,-6.774590015,,3049,3056, I am using on the skin tear. We will use the Atrauman and we will cover with the Alleyvn gentle. Ye,3002,3102
+deepset/xlm-roberta-large-squad2,18254,1,0,What date is proposed for the next meeting?,no_answer,8.18861866,2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,18254,1,1,What date is proposed for the next meeting?,Minimal,-5.503124237,,4083,4090,"ps.""
+operator said ""Aww absolutely. Well listen Minimal, thank you.""
+customer said ""If you will leav",4036,4136
+deepset/xlm-roberta-large-squad2,18254,1,2,What date is proposed for the next meeting?,"trauman and we will cover with the Alleyvn gentle. Yes that's right.""
+operator said ""Okay.""
+customer said ""For good to continue.""
+operator said ""That's okay. Because that's one of. Oh no. Yeah no that's fine now. That's good to know because umm one of the things that we've been sort of talking about his skin tears and I'm the way of treating them. And I think the new ISTAP advisory panel is sort of saying that we clean it with saline and then put on something like just Alleyvn gentle border. So it's not going to cause any more damage to the skin, you know that fragile skin.""
+customer said ""Yeah because we will, we would take it take it out. It will cause more damage than Alleyvn.""
+operator said ""Yeah and its so nice. Its so good to hear you saying that because I've been talking to some people and they've been using all sorts of things and I think oh no. Those poor patients. they all know""
+customer said ""And I said that it is one the best thing for me, skin breaks, skin flaps.""
+operator said ""Aww absolutely. Well listen Minimal",-6.287525177,,3049,4091,"trauman and we will cover with the Alleyvn gentle. Yes that's right.""
+operator said ""Okay.""
+customer said ""For good to continue.""
+operator said ""That's okay. Because that's one of. Oh no. Yeah no that's fine now. That's good to know because umm one of the things that we've been sort of talking about his skin tears and I'm the way of treating them. And I think the new ISTAP advisory panel is sort of saying that we clean it with saline and then put on something like just Alleyvn gentle border. So it's not going to cause any more damage to the skin, you know that fragile skin.""
+customer said ""Yeah because we will, we would take it take it out. It will cause more damage than Alleyvn.""
+operator said ""Yeah and its so nice. Its so good to hear you saying that because I've been talking to some people and they've been using all sorts of things and I think oh no. Those poor patients. they all know""
+customer said ""And I said that it is one the best thing for me, skin breaks, skin flaps.""
+operator said ""Aww absolutely. Well listen Minimal",3049,4091
+deepset/xlm-roberta-large-squad2,18254,1,3,What date is proposed for the next meeting?,listen Minimal,-7.672013283,,4076,4090,"flaps.""
+operator said ""Aww absolutely. Well listen Minimal, thank you.""
+customer said ""If you will l",4033,4133
+deepset/xlm-roberta-large-squad2,18254,1,4,What date is proposed for the next meeting?,trau,-8.083794594,,3049,3053,. I am using on the skin tear. We will use the Atrauman and we will cover with the Alleyvn gentle. Y,3001,3101
+deepset/xlm-roberta-large-squad2,18255,0,0,What date is set for another meeting?,no_answer,5.851183891,2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,18255,0,1,What date is set for another meeting?,Leg wounds generally Yes yeah yeah so sore or traumatic wounds generally I've only been in nursing since April so I'm just going off what I have seen. So we have abdominal wounds,-10.06813049,,1474,1652,Leg wounds generally Yes yeah yeah so sore or traumatic wounds generally I've only been in nursing since April so I'm just going off what I have seen. So we have abdominal wounds,1474,1652
+deepset/xlm-roberta-large-squad2,18255,0,2,What date is set for another meeting?,Sometimes we are not using them for seven days just Because the wounds are quite. They require earlier so they're not really lasting the seven days. But some people do tend to have a skin reaction to Allevyn,-10.07106781,,1876,2083,"""Sometimes we are not using them for seven days just Because the wounds are quite. They require earlier so they're not really lasting the seven days. But some people do tend to have a skin reaction to Allevyn",1875,2083
+deepset/xlm-roberta-large-squad2,18255,0,3,What date is set for another meeting?,Sometimes we are not using them for seven days,-10.16189575,,1876,1922," of thing?""
+customer said ""Sometimes we are not using them for seven days just Because the wounds ar",1849,1949
+deepset/xlm-roberta-large-squad2,18255,0,4,What date is set for another meeting?,"Leg wounds generally Yes yeah yeah so sore or traumatic wounds generally I've only been in nursing since April so I'm just going off what I have seen. So we have abdominal wounds as well but yeah that's coming.""
+operator said ""OK and when you have been using Allevyn on the wound are you sort of happy with the performance? They stick on. Lasting sort of seven days that kind of thing?""
+customer said ""Sometimes we are not using them for seven days just Because the wounds are quite. They require earlier so they're not really lasting the seven days. But some people do tend to have a skin reaction to Allevyn",-10.21378326,,1474,2083,"""Leg wounds generally Yes yeah yeah so sore or traumatic wounds generally I've only been in nursing since April so I'm just going off what I have seen. So we have abdominal wounds as well but yeah that's coming.""
+operator said ""OK and when you have been using Allevyn on the wound are you sort of happy with the performance? They stick on. Lasting sort of seven days that kind of thing?""
+customer said ""Sometimes we are not using them for seven days just Because the wounds are quite. They require earlier so they're not really lasting the seven days. But some people do tend to have a skin reaction to Allevyn",1473,2083
+deepset/xlm-roberta-large-squad2,18255,1,0,What date is proposed for the next meeting?,no_answer,6.450314522,2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,18255,1,1,What date is proposed for the next meeting?,ders patients,-11.32560539,,2629,2642," patients?""
+customer said ""If I am seeing elders patients I'm going to go with a gentle border simpl",2585,2685
+deepset/xlm-roberta-large-squad2,18255,1,2,What date is proposed for the next meeting?,seven days,-11.37465572,,3365,3375,need it. Well that having to change more than seven days and they should be lasting up to if that's ,3320,3420
+deepset/xlm-roberta-large-squad2,18255,1,3,What date is proposed for the next meeting?,ders,-11.51994896,,2629,2633,"erly patients?""
+customer said ""If I am seeing elders patients I'm going to go with a gentle border s",2581,2681
+deepset/xlm-roberta-large-squad2,18255,1,4,What date is proposed for the next meeting?,Sometimes we are not using them for seven days,-11.55057907,,1876,1922," of thing?""
+customer said ""Sometimes we are not using them for seven days just Because the wounds ar",1849,1949
+deepset/xlm-roberta-large-squad2,18256,0,0,What date is set for another meeting?,no_answer,5.801987648,2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,18256,0,1,What date is set for another meeting?,I'm good,-5.251484871,,207,215,"mer said ""Yes fine thank you?""
+operator said ""I'm good thank you. I'm calling because I'm part of th",161,261
+deepset/xlm-roberta-large-squad2,18256,0,2,What date is set for another meeting?,three weeks,-5.5863657,,4995,5006,"ually on been over here working on this patch three weeks. I did everything.""
+customer said ""That sh",4950,5050
+deepset/xlm-roberta-large-squad2,18256,0,3,What date is set for another meeting?,good,-5.672012329,,210,214,"er said ""Yes fine thank you?""
+operator said ""I'm good thank you. I'm calling because I'm part of the",162,262
+deepset/xlm-roberta-large-squad2,18256,0,4,What date is set for another meeting?,"I'm good thank you. I'm calling because I'm part of the new team with Smith and Nephew. And we want to do is offer support for the youth around our dressing's and many of you use Allevyn?""
+customer said ""Yes course we are. We still use it. Yeah. Brilliant.""
+operator said ""Oh brilliant. OK so I think the main area that we wanted to focus on and it's going to take a bit of fact finding from me I'm still a bit new to the area and the use of the Allevyn around skin tear has been presented with a skin tear. What would be your process?""
+customer said ""And basically it's like obviously you have to see if you can depend on the skin tear. You can gently mold it back into place and then keep it dry. And then it's the first line is an Allevyn on that. And if it needs anything else really and then you know we normally find after about a week it's done the job.""
+operator said ""Brilliant I'm really glad to hear that you've mentioned the use of potentially something else. Is that with anything Allevyn or instead of Allevyn?""
+customer said ""No it would be with Allevyn",-6.744969368,,207,1275,"I'm good thank you. I'm calling because I'm part of the new team with Smith and Nephew. And we want to do is offer support for the youth around our dressing's and many of you use Allevyn?""
+customer said ""Yes course we are. We still use it. Yeah. Brilliant.""
+operator said ""Oh brilliant. OK so I think the main area that we wanted to focus on and it's going to take a bit of fact finding from me I'm still a bit new to the area and the use of the Allevyn around skin tear has been presented with a skin tear. What would be your process?""
+customer said ""And basically it's like obviously you have to see if you can depend on the skin tear. You can gently mold it back into place and then keep it dry. And then it's the first line is an Allevyn on that. And if it needs anything else really and then you know we normally find after about a week it's done the job.""
+operator said ""Brilliant I'm really glad to hear that you've mentioned the use of potentially something else. Is that with anything Allevyn or instead of Allevyn?""
+customer said ""No it would be with Allevyn",207,1275
+deepset/xlm-roberta-large-squad2,18256,1,0,What date is proposed for the next meeting?,no_answer,6.332211494,2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,18256,1,1,What date is proposed for the next meeting?,three weeks,-6.551807404,,4995,5006,"ually on been over here working on this patch three weeks. I did everything.""
+customer said ""That sh",4950,5050
+deepset/xlm-roberta-large-squad2,18256,1,2,What date is proposed for the next meeting?,good,-6.715268135,,210,214,"er said ""Yes fine thank you?""
+operator said ""I'm good thank you. I'm calling because I'm part of the",162,262
+deepset/xlm-roberta-large-squad2,18256,1,3,What date is proposed for the next meeting?,the nurses,-6.995435238,,2371,2381,aven't ordered it but I think it is basically the nurses who have ordered the silicone. But then I'v,2326,2426
+deepset/xlm-roberta-large-squad2,18256,1,4,What date is proposed for the next meeting?,I'm good,-7.057416439,,207,215,"mer said ""Yes fine thank you?""
+operator said ""I'm good thank you. I'm calling because I'm part of th",161,261
+deepset/xlm-roberta-large-squad2,18257,0,0,What date is set for another meeting?,no_answer,3.259818316,2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,18257,0,1,What date is set for another meeting?,next Thursday or Friday,3.042145729,,4224,4247,let's say about a week to 10 days maybe next Thursday or Friday. And we can discuss how the use of t,4185,4285
+deepset/xlm-roberta-large-squad2,18257,0,2,What date is set for another meeting?,"next Thursday or Friday. And we can discuss how the use of that foam dressing has worked with the skin tear and then from that I'll have a chat with the operations manager.""
+customer said ""Yep OK""
+operator said ""That's great Jean-Pierre thank you so much for taking the time. Could I just ask your surname please? Because I've got to write down who I've spoken to today.""
+customer said ""Amegan""
+operator said ""Amegan. Perfect. Thank you so much Jean-Pierre I really appreciate that. And I'll speak to you again in about maybe about a week",1.858302116,,4224,4762," next Thursday or Friday. And we can discuss how the use of that foam dressing has worked with the skin tear and then from that I'll have a chat with the operations manager.""
+customer said ""Yep OK""
+operator said ""That's great Jean-Pierre thank you so much for taking the time. Could I just ask your surname please? Because I've got to write down who I've spoken to today.""
+customer said ""Amegan""
+operator said ""Amegan. Perfect. Thank you so much Jean-Pierre I really appreciate that. And I'll speak to you again in about maybe about a wee",4224,4762
+deepset/xlm-roberta-large-squad2,18257,0,3,What date is set for another meeting?,Thursday or Friday,1.369261384,,4229,4247,'s say about a week to 10 days maybe next Thursday or Friday. And we can discuss how the use of that,4188,4288
+deepset/xlm-roberta-large-squad2,18257,0,4,What date is set for another meeting?,maybe next Thursday or Friday,1.090681553,,4218,4247,nd let's say about a week to 10 days maybe next Thursday or Friday. And we can discuss how the use o,4182,4282
+deepset/xlm-roberta-large-squad2,18257,1,0,What date is proposed for the next meeting?,no_answer,4.217597246,2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,18257,1,1,What date is proposed for the next meeting?,next Thursday or Friday,3.433398962,,4224,4247,let's say about a week to 10 days maybe next Thursday or Friday. And we can discuss how the use of t,4185,4285
+deepset/xlm-roberta-large-squad2,18257,1,2,What date is proposed for the next meeting?,Thursday or Friday,3.209102869,,4229,4247,'s say about a week to 10 days maybe next Thursday or Friday. And we can discuss how the use of that,4188,4288
+deepset/xlm-roberta-large-squad2,18257,1,3,What date is proposed for the next meeting?,maybe next Thursday or Friday,2.297391176,,4218,4247,nd let's say about a week to 10 days maybe next Thursday or Friday. And we can discuss how the use o,4182,4282
+deepset/xlm-roberta-large-squad2,18257,1,4,What date is proposed for the next meeting?,let's say about a week to 10 days maybe next Thursday or Friday,0.867522836,,4184,4247,you a call back and let's say about a week to 10 days maybe next Thursday or Friday. And we can disc,4165,4265
+deepset/xlm-roberta-large-squad2,18258,0,0,What date is set for another meeting?,no_answer,6.09056282,2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,18258,0,1,What date is set for another meeting?,"OK. How are you?""
+operator said ""I'm not too bad",-5.815635204,,596,644,"today?""
+customer said ""I'm OK. How are you?""
+operator said ""I'm not too bad. This is Antonia from Sm",570,670
+deepset/xlm-roberta-large-squad2,18258,0,2,What date is set for another meeting?,not too bad,-5.884449005,,633,644,"aid ""I'm OK. How are you?""
+operator said ""I'm not too bad. This is Antonia from Smith and Nephew. If",588,688
+deepset/xlm-roberta-large-squad2,18258,0,3,What date is set for another meeting?,"I'm OK. How are you?""
+operator said ""I'm not too bad",-6.815179348,,593,645," today?""
+customer said ""I'm OK. How are you?""
+operator said ""I'm not too bad. This is Antonia from S",569,669
+deepset/xlm-roberta-large-squad2,18258,0,4,What date is set for another meeting?,two minutes,-7.19740963,,1091,1102,"se I'm busy at the.""
+operator said ""Literally two minutes, two minute darling. All I want to do. No ",1046,1146
+deepset/xlm-roberta-large-squad2,18258,1,0,What date is proposed for the next meeting?,no_answer,6.416130066,2,0,0,,0,0
+deepset/xlm-roberta-large-squad2,18258,1,1,What date is proposed for the next meeting?,not too bad,-6.585276604,,633,644,"aid ""I'm OK. How are you?""
+operator said ""I'm not too bad. This is Antonia from Smith and Nephew. If",588,688
+deepset/xlm-roberta-large-squad2,18258,1,2,What date is proposed for the next meeting?,"OK. How are you?""
+operator said ""I'm not too bad",-6.808861732,,596,644,"today?""
+customer said ""I'm OK. How are you?""
+operator said ""I'm not too bad. This is Antonia from Sm",570,670
+deepset/xlm-roberta-large-squad2,18258,1,3,What date is proposed for the next meeting?,I'm not too bad,-8.04199028,,630,645,"said ""I'm OK. How are you?""
+operator said ""I'm not too bad. This is Antonia from Smith and Nephew. I",587,687
+deepset/xlm-roberta-large-squad2,18258,1,4,What date is proposed for the next meeting?,"I'm OK. How are you?""
+operator said ""I'm not too bad",-8.166454315,,593,645," today?""
+customer said ""I'm OK. How are you?""
+operator said ""I'm not too bad. This is Antonia from S",569,669
